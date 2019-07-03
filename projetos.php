@@ -1,3 +1,10 @@
+<?php
+include ("cabecalho.html");
+?>
+<div class="container">
+
+<h3>Projetos</h3>
+
 <p>Ano:
 <form method="POST" action="projetos.php">
 <select id="menu_ano" onchange="this.form.submit()" name="ano">
@@ -30,20 +37,17 @@
 </select>
 </form>
 </p>
-
-
 <?php
-
-
-
 if (isset ($_POST['ano'])) {
 
     echo $_POST['ano'];
     $ano = $_POST[ano];
     $arquivo = $ano.'.html';
     include ($arquivo);
-
-
 }
+?>
 
+</div>
+<?php
+include ("rodape.html");
 ?>
