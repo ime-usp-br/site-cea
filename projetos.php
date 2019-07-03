@@ -1,6 +1,7 @@
 <p>Ano:
 <form method="POST" action="projetos.php">
 <select id="menu_ano" onchange="this.form.submit()" name="ano">
+<option value="2019"></option>
 <option value="2019">2019</option>
 <option value="2018">2018</option>
 <option value="2017">2017</option>
@@ -41,9 +42,8 @@ if (isset ($_POST['ano'])) {
     $ano = $_POST[ano];
     $arquivo = $ano.'.html';
     include ($arquivo);
-    
+
 
 }
 
 ?>
-
