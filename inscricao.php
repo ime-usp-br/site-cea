@@ -8,16 +8,16 @@
 
 
   <p style="text-align: justify;">A inscrição deverá ser feita preenchendo-se o formulário em
-    <a href="/images/arquivos/departamentos/mae/cea/fichacea.doc" target="_blank" rel="noopener noreferrer" >DOC</a>
-    ou <a href="/images/arquivos/departamentos/mae/cea/fichacea.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
+    <a href="docs/fichacea.doc" target="_blank" rel="noopener noreferrer" >DOC</a>
+    ou <a href="docs/fichacea.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
     e enviar por e-mail ou entregar na secretaria do CEA.</p>
 
 
   <h3 style="text-align: justify;">Informações adicionais</h3>
   <p style="text-align: justify;"><strong>A - Procedimento para consultas</strong></p>
   <ol style="text-align: justify;">
-  <li>Preencher a ficha em papel por meio dos formulários em formato <a href="/images/arquivos/departamentos/mae/cea/fichacea.doc" target="_blank" rel="noopener noreferrer">DOC</a> ou
-    <a href="/images/arquivos/departamentos/mae/cea/fichacea.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
+  <li>Preencher a ficha em papel por meio dos formulários em formato <a href="docs/fichacea.doc" target="_blank" rel="noopener noreferrer">DOC</a> ou
+    <a href="docs/fichacea.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
     e enviar por e-mail ou entregar na secretaria do CEA (IME, Bloco A, Sala 214).</li>
 
   <li>Aguardar o contato da secretária do CEA com informações sobre o método de pagamento da taxa de R$ 50,00 (cinquenta reais) e data de atendimento da consulta.</li>
@@ -30,8 +30,8 @@
   <p style="text-align: justify;"><strong>B - Procedimento para projetos</strong></p>
   <ol style="text-align: justify;">
   <li>Preencher a ficha em papel por meio dos formulários em formato
-    <a href="/images/arquivos/departamentos/mae/cea/fichacea.doc" target="_blank" rel="noopener noreferrer">DOC</a> ou
-    <a href="/images/arquivos/departamentos/mae/cea/fichacea.pdf" target="_blank" rel="noopener noreferrer">PDF</a> e
+    <a href="docs/fichacea.doc" target="_blank" rel="noopener noreferrer">DOC</a> ou
+    <a href="docs/fichacea.pdf" target="_blank" rel="noopener noreferrer">PDF</a> e
     enviar por e-mail ou entregar na secretaria do CEA (IME, Bloco A, Sala 214).</li>
   <li>Aguardar o contato da secretária do CEA com informações sobre o método de pagamento da taxa de R$ 50,00 (cinquenta reais) e sobre a data da triagem
     (fevereiro ou julho). Em caso de mestrados ou doutorados, comparecer com o(a) orientador(a).</li>
