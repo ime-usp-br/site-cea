@@ -3,6 +3,19 @@ include ("cabecalho.html");
 ?>
 <div class="container">
 
+
+<div class="alert alert-info" role="alert">
+<p style="padding: 30px" class="text-center">
+O Centro de Estatística Aplicada (CEA) está em funcionamento; entretanto,
+devido às restrições impostas pela pandemia causada pelo vírus COVID19,
+todas as atividades estão sendo realizadas à distância, por videoconferência.
+</p>
+</div>
+
+<br>
+<br>
+
+
   <h3>Finalidade</h3>
 
 
@@ -12,6 +25,11 @@ include ("cabecalho.html");
   <li style="text-align: justify;">consultas;</li>
   <li style="text-align: justify;">realização de projetos de assessoria estatística de pequeno porte.</li>
   </ul>
+
+  <br>
+<br>
+
+
   <h3 style="text-align: justify;">Principais Atividades</h3>
   <p style="text-align: justify;">As <strong>consultas</strong> têm como finalidade a apresentação de sugestões para análise de dados ou para planejamento de estudos que envolvem análises estatísticas, além de servirem para triagem de projetos a serem desenvolvidos pelo CEA. Em geral, têm duração de 1:30h e as sugestões para planejamento e/ou análise são apresentadas por escrito, caso seja possível identificar o problema estatístico (temos atendido muitos casos em que o próprio problema que é objeto de estudo não está bem definido e, nessa situação, a orientação estatística não é factível).</p>
   <p style="text-align: justify;">Participam da consulta: pesquisador(es) interessado(s) e orientador(a) (nos casos de mestrado ou doutorado), professores do departamento e alunos do bacharelado em Estatística.</p>
