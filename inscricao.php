@@ -11,7 +11,9 @@
     <a href="docs/fichacea.doc" target="_blank" rel="noopener noreferrer" >DOC</a>
     ou <a href="docs/fichacea.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
     e enviar por e-mail ou entregar na secretaria do CEA.</p>
-
+    
+    <br>
+    <br>
 
   <h3 style="text-align: justify;">Informações adicionais</h3>
   <p style="text-align: justify;"><strong>A - Procedimento para consultas</strong></p>
@@ -51,6 +53,20 @@
   				var addy_textba81541b7fa4c1c085c6993bd65d9350 = 'c&#101;&#97;' + '&#64;' + '&#105;m&#101;' + '&#46;' + '&#117;sp' + '&#46;' + 'br';document.getElementById('cloakba81541b7fa4c1c085c6993bd65d9350').innerHTML += '<a ' + path + '\'' + prefix + ':' + addyba81541b7fa4c1c085c6993bd65d9350 + '\'>'+addy_textba81541b7fa4c1c085c6993bd65d9350+'<\/a>';
   		</script>).</p>
   <p style="text-align: justify;">&nbsp;</p>
+
+
+<h3>Dados bancários para pagamento das taxas</h3>
+
+<p>IME - Receita
+<br>Banco do Brasil
+<br>Ag:  7009-2
+<br>Conta:130185-3
+<br>CNPJ: 63.025.530/0008-80
+</p>
+
+<br>
+<br>
+<br>
 
   </div>
   <?php
