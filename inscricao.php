@@ -8,15 +8,15 @@
 
   <div class="alert alert-info" role="warning">
 <p style="padding 30px" >
-A submiss  o de projetos para an  lise no 1   semestre de 2021 j   est   aberta e encerra-se em 05 de mar  o.
+A submissão de projetos para análise no 1º semestre de 2021 já está aberta e encerra-se em 05 de março.
 
 <br><br>
-As triagens ser  o realizadas de 08 a 31 de mar  o, de segunda-feira    sexta-feira, das 9h   s 11h 30 e das 14h   s 17h, 
-exceto   s quintas-feiras das 14h   s 17h (agendar hor  rio com a secret  ria Alessandra por meio do e-mail arcanjo@ime.usp.br).
+As triagens serão realizadas de 08 a 31 de março, de segunda-feira à  sexta-feira, das 9h às 11h30 e das 14h às 17h, 
+exceto às quintas-feiras das 14h às 17h (agendar horário com a secretária Alessandra por meio do e-mail arcanjo@ime.usp.br).
 
 <br><br>
 
-Neste 1   semestre de 2021, excepcionalmente, a an  lise dos projetos ser   executada de abril a julho, seguindo o calend  rio USP para a gradua    o.
+Neste 1º semestre de 2021, excepcionalmente, a análise dos projetos será executada de abril a julho, seguindo o calendário USP para a graduação.
 </p>
 
 </div>
