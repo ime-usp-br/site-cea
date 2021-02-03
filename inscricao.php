@@ -6,6 +6,22 @@
   <h3>Inscrição</h3>
 
 
+  <div class="alert alert-info" role="warning">
+<p style="padding 30px" >
+A submiss  o de projetos para an  lise no 1   semestre de 2021 j   est   aberta e encerra-se em 05 de mar  o.
+
+<br><br>
+As triagens ser  o realizadas de 08 a 31 de mar  o, de segunda-feira    sexta-feira, das 9h   s 11h 30 e das 14h   s 17h, 
+exceto   s quintas-feiras das 14h   s 17h (agendar hor  rio com a secret  ria Alessandra por meio do e-mail arcanjo@ime.usp.br).
+
+<br><br>
+
+Neste 1   semestre de 2021, excepcionalmente, a an  lise dos projetos ser   executada de abril a julho, seguindo o calend  rio USP para a gradua    o.
+</p>
+
+</div>
+
+
 
   <p style="text-align: justify;">A inscrição deverá ser feita preenchendo-se o formulário em
     <a href="docs/fichacea.doc" target="_blank" rel="noopener noreferrer" >DOC</a>

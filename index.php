@@ -15,6 +15,14 @@ todas as atividades estão sendo realizadas à distância, por videoconferência
 <br>
 <br>
 
+<p>
+<a href="inscricao.php" class="btn btn-danger btn-block p-3">Submiss&atilde;o e triagem de projetos - 1o semestre de 2021</a>
+
+</p>
+<br>
+<br>
+
+
 
   <h3>Finalidade</h3>
 
