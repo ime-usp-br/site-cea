@@ -4,19 +4,8 @@ include ("cabecalho.html");
 <div class="container">
 
 
-<div class="alert alert-info" role="alert">
-<p style="padding: 30px" class="text-center">
-O Centro de Estatística Aplicada (CEA) está em funcionamento; entretanto,
-devido às restrições impostas pela pandemia causada pelo vírus COVID19,
-todas as atividades estão sendo realizadas à distância, por videoconferência.
-</p>
-</div>
-
-<br>
-<br>
-
 <p>
-<a href="inscricao.php" class="btn btn-danger btn-block p-3">Submiss&atilde;o e triagem de projetos - 1o semestre de 2021</a>
+<a href="inscricao.php" class="btn btn-danger btn-block p-3">Submiss&atilde;o e triagem de projetos - 1o semestre de 2022</a>
 
 </p>
 <br>
