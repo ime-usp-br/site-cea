@@ -65,13 +65,11 @@ As triagens serão realizadas de 21 de fevereiro a 9 de março, de segunda-feira
   <p style="text-align: justify;">&nbsp;</p>
 
 
-<h3>Dados bancários para pagamento das taxas</h3>
+<h3>Pagamentos das taxas</h3>
 
-<p>IME - Receita
-<br>Banco do Brasil
-<br>Ag:  7009-2
-<br>Conta:130185-3
-<br>CNPJ: 63.025.530/0008-80
+<p>
+Será realizado através de boleto bancário.
+<br>Solicitar através do email cea@ime.usp.br com nome completo e CPF.
 </p>
 
 <br>
