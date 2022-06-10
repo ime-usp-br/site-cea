@@ -8,7 +8,7 @@
 
   <div class="alert alert-info" role="warning">
 <p style="padding 30px" >
-As submissões de projetos para análise no 2º semestre de 2022 será entre 20/06 a 15/07,, por meio do preenchimento do formulário em  <a href="docs/fichacea.doc" target="_blank" rel="noopener noreferrer" >DOC</a>
+As submissões de projetos para análise no 2º semestre de 2022 será entre 20/06 a 15/07, por meio do preenchimento do formulário em  <a href="docs/fichacea.doc" target="_blank" rel="noopener noreferrer" >DOC</a>
     ou <a href="docs/fichacea.pdf" target="_blank" rel="noopener noreferrer">PDF</a> . Enviar para a secretária Alessandra por e-mail (arcanjo@ime.usp.br ou cea@ime.usp.br).
 
 <br><br>
