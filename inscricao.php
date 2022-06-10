@@ -9,7 +9,7 @@
   <div class="alert alert-info" role="warning">
 <p style="padding 30px" >
 As submissões de projetos para análise no 1º semestre de 2022 ocorrerão entre 1º e 18 de fevereiro, por meio do preenchimento do formulário em  <a href="docs/fichacea.doc" target="_blank" rel="noopener noreferrer" >DOC</a>
-    ou <a href="docs/fichacea.pdf" target="_blank" rel="noopener noreferrer">PDF</a> . Enviar para a secretária Alessandra por e-mail (arcanjo@ime.usp.br ou cea@ime.usp.br)..
+    ou <a href="docs/fichacea.pdf" target="_blank" rel="noopener noreferrer">PDF</a> . Enviar para a secretária Alessandra por e-mail (arcanjo@ime.usp.br ou cea@ime.usp.br).
 
 <br><br>
 As triagens serão realizadas de 21 de fevereiro a 9 de março, de segunda-feira à sexta-feira, das 9h às 11h30 e das 14h às 17h, por videoconferência (agendar horário com a secretária Alessandra por telefone (11-3091-6133) ou por e-mail (arcanjo@ime.usp.br ou cea@ime.usp.br).
@@ -68,8 +68,17 @@ As triagens serão realizadas de 21 de fevereiro a 9 de março, de segunda-feira
 <h3>Pagamentos das taxas</h3>
 
 <p>
-Será realizado através de boleto bancário.
-<br>Solicitar através do email cea@ime.usp.br com nome completo e CPF.
+<br><b>Será realizado através de transferência bancária:</b>
+<br>
+<br>Banco do Brasil
+<br>Agência: 7009
+<br>C/C: 130185-3
+<br>CTA RECEITA - IME
+<br>CNPJ: 63.025.530/0008-80 
+<br>
+<br>
+<br>Enviar comprovante por e-mail (arcanjo@ime.usp.br ou cea@ime.usp.br).
+
 </p>
 
 <br>

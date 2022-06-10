@@ -30,7 +30,7 @@ for ($i = $ano_final; $i >= $ano_inicial; $i--) {
 
 <?php
 if (isset ($_POST['ano'])) {
-    $ano = $_POST[ano];
+    $ano = $_POST['ano'];
     $arquivo = "projetos/".$ano.'.html';
     include ($arquivo);
 } else {
