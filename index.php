@@ -5,7 +5,7 @@ include ("cabecalho.html");
 
 
 <p>
-<a href="inscricao.php" class="btn btn-danger btn-block p-3">Submiss&atilde;o e triagem de projetos - 1o semestre de 2022</a>
+<a href="inscricao.php" class="btn btn-danger btn-block p-3">Submiss&atilde;o e triagem de projetos - 2o semestre de 2022</a>
 
 </p>
 <br>
