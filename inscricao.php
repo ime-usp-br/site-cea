@@ -77,7 +77,7 @@ As triagens serão realizadas de  26 de julho a 5 de agosto, de segunda-feira à
 <br>CNPJ: 63.025.530/0008-80 
 <br>
 <br>
-<br>Enviar comprovante por e-mail (arcanjo@ime.usp.br ou cea@ime.usp.br).
+<br>Enviar comprovante por e-mail para cea@ime.usp.br.
 
 </p>
 
