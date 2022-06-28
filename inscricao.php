@@ -71,7 +71,7 @@ As triagens serão realizadas de 26 de julho a 5 de agosto, de segunda-feira à 
 <br><b>Será realizado através de transferência bancária:</b>
 <br>
 <br>Banco do Brasil
-<br>Agência: 7009
+<br>Agência: 7009-2
 <br>C/C: 130185-3
 <br>CTA RECEITA - IME
 <br>CNPJ: 63.025.530/0008-80 
