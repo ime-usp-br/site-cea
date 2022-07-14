@@ -12,7 +12,7 @@ As submissões de projetos para análise no 2º semestre de 2022 devem ocorrer e
     ou <a href="docs/fichacea.pdf" target="_blank" rel="noopener noreferrer">PDF</a>. Enviar formulário e comprovante de pagamento para a secretária Alessandra via e-mail para cea@ime.usp.br.
 
 <br><br>
-As triagens serão realizadas de 26 de julho a 5 de agosto, de segunda-feira à sexta-feira, nos seguintes horários: 9h30, 10h30 e 11h30 pela manhã e as 13h30, 14h30 e 15h30, por videoconferência (agendar horário por telefone (11-3091-6133) ou por e-mail (cea@ime.usp.br)).
+As triagens serão realizadas de 26 de julho a 5 de agosto, de segunda-feira à sexta-feira, nos seguintes horários: 9h30, 10h30 e 11h30 pela manhã e as 13h30, 14h30 e 15h30, por videoconferência (agendar horário por telefone (11-3091-6130 ou 11-3091-6129) ou por e-mail (cea@ime.usp.br)).
 
 <br><br>
 
