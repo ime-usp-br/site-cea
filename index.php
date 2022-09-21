@@ -6,7 +6,6 @@ include ("cabecalho.html");
 
 <p>
 <a href="inscricao.php" class="btn btn-danger btn-block p-3">Encerrada a submissão e triagem de projetos - 2º semestre de 2022</a>
-
 </p>
 <br>
 <br>
