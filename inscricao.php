@@ -8,11 +8,8 @@
 
   <div class="alert alert-info" role="warning">
 <p style="padding 30px" >
-As submissões de projetos para análise no 2º semestre de 2022 devem ocorrer entre 20/06 a 15/07, por meio do preenchimento do formulário em  <a href="docs/fichacea.doc" target="_blank" rel="noopener noreferrer" >DOC</a>
+As submissões de projetos para análise no 1º semestre de 2023 devem ocorrer no começo de 2023, por meio do preenchimento do formulário em  <a href="docs/fichacea.doc" target="_blank" rel="noopener noreferrer" >DOC</a>
     ou <a href="docs/fichacea.pdf" target="_blank" rel="noopener noreferrer">PDF</a>. Enviar formulário e comprovante de pagamento para a secretária Alessandra via e-mail para cea@ime.usp.br.
-
-<br><br>
-As triagens serão realizadas de 26 de julho a 5 de agosto, de segunda-feira à sexta-feira, nos seguintes horários: 9h30, 10h30 e 11h30 pela manhã e as 13h30, 14h30 e 15h30, por videoconferência (agendar horário por telefone (11-3091-6130 ou 11-3091-6129) ou por e-mail (cea@ime.usp.br)).
 
 <br><br>
 
