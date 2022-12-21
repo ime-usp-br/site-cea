@@ -5,12 +5,8 @@ include ("cabecalho.html");
 
 
 <p>
-<<<<<<< HEAD
 <a href="inscricao.php" class="btn btn-danger btn-block p-3">Inscrição de projetos e triagem para o 1º semestre de 2023</a>
 
-=======
-<a href="inscricao.php" class="btn btn-danger btn-block p-3">Encerrada a submissão e triagem de projetos - 2º semestre de 2022</a>
->>>>>>> 9d75cdf75cc1396a523291baf6badd4994ef8c62
 </p>
 <br>
 <br>
