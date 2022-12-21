@@ -8,13 +8,17 @@
 
   <div class="alert alert-info" role="warning">
 <p style="padding 30px" >
-As submissões de projetos para análise no 2º semestre de 2022 devem ocorrer entre 20/06 a 15/07, por meio do preenchimento do formulário em  <a href="docs/fichacea.doc" target="_blank" rel="noopener noreferrer" >DOC</a>
-    ou <a href="docs/fichacea.pdf" target="_blank" rel="noopener noreferrer">PDF</a>. Enviar formulário e comprovante de pagamento para a secretária Alessandra via e-mail para cea@ime.usp.br.
+As submissões de projetos para análise no 1º semestre de 2023 devem ocorrer entre
+17/01 a 17/02, por meio do preenchimento do formulário em <a href="docs/fichacea.doc" target="_blank" rel="noopener noreferrer" >DOC</a>
+    ou <a href="docs/fichacea.pdf" target="_blank" rel="noopener noreferrer">PDF</a>. Enviar
+formulário e comprovante de pagamento para a secretária Alessandra via e-mail
+para <a href = "mailto: cea@ime.usp.br">cea@ime.usp.br</a>.
+<br>
+<br>
+As triagens serão realizadas de 23 de fevereiro a 9 de março, de segunda-feira à sexta-feira, nos seguintes horários: 10h30, 11h30, 13h30, 14h30, 15h30, 16h30 e
+17h30 por videoconferência (agendar horário por telefone (11-3091-6133) ou por e-mail (<a href = "mailto: cea@ime.usp.br">cea@ime.usp.br</a>)).
 
-<br><br>
-As triagens serão realizadas de 26 de julho a 5 de agosto, de segunda-feira à sexta-feira, nos seguintes horários: 9h30, 10h30 e 11h30 pela manhã e as 13h30, 14h30 e 15h30, por videoconferência (agendar horário por telefone (11-3091-6130 ou 11-3091-6129) ou por e-mail (cea@ime.usp.br)).
-
-<br><br>
+<br>
 
 </p>
 
@@ -46,7 +50,7 @@ As triagens serão realizadas de 26 de julho a 5 de agosto, de segunda-feira à 
     <a href="docs/fichacea.pdf" target="_blank" rel="noopener noreferrer">PDF</a> e
     enviar por e-mail ou entregar na secretaria do CEA (IME, Bloco A, Sala 214).</li>
   <li>Aguardar o contato da secretária do CEA com informações sobre o método de pagamento da taxa de R$ 80,00 (oitenta reais) e sobre a data da triagem
-    (fevereiro ou julho). Em caso de mestrados ou doutorados, comparecer com o(a) orientador(a).</li>
+  (fevereiro/março ou julho/agosto). Em caso de mestrados ou doutorados, comparecer com o(a) orientador(a).</li>
   <li>Aguardar resposta do CEA sobre a possibilidade ou não da realização do projeto. Esta resposta geralmente é dada no prazo máximo de um mês.</li>
   <li>Caso o projeto seja selecionado, pagar taxa adicional de R$ 200,00 (duzentos reais).</li>
   </ol>
