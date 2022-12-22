@@ -8,7 +8,7 @@
 
   <div class="alert alert-info" role="warning">
 <p style="padding 30px" >
-As submissões de projetos para análise no 1º semestre de 2023 devem ocorrer entre
+As submissões de projetos para análise no 1º semestre de 2023 ocorrerão entre
 17/01 a 17/02, por meio do preenchimento do formulário em <a href="docs/fichacea.doc" target="_blank" rel="noopener noreferrer" >DOC</a>
     ou <a href="docs/fichacea.pdf" target="_blank" rel="noopener noreferrer">PDF</a>. Enviar
 formulário e comprovante de pagamento para a secretária Alessandra via e-mail
