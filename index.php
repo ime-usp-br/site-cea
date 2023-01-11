@@ -5,7 +5,13 @@ include ("cabecalho.html");
 
 
 <p>
-<a href="inscricao.php" class="btn btn-danger btn-block p-3">Antes de clicar na aba Inscrição, leia atentamente sobre a Finalidade e Principais Atividades do CEA</a>
+<div class="container">
+  <div class="row">
+    <div class="col-7">
+    <div class="alert alert-danger" data-mdb-position="top-right">Antes de clicar na aba Inscrição, leia atentamente sobre a Finalidade e Principais Atividades do CEA</div>
+    </div>
+  </div>
+</div>
 
 </p>
 <br>
