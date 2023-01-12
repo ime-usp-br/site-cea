@@ -33,8 +33,7 @@ include ("cabecalho.html");
 
 
   <h3 style="text-align: justify;">Principais Atividades</h3>
-  <p style="text-align: justify;">As <strong>consultas</strong> têm como finalidade a apresentação de sugestões para análise de dados ou para planejamento de estudos que envolvem análises estatísticas, além de
-servirem para triagem de projetos a serem desenvolvidos pelo CEA. São realizadas às terças-feiras, às 16 horas, durante os dois semestres letivos, e têm duração média de 1:30h. As inscrições podem ser realizadas a qualquer momento. As sugestões para
+  <p style="text-align: justify;">As <strong>consultas</strong> têm como finalidade a apresentação de sugestões para análise de dados ou para planejamento de estudos que envolvem análises estatísticas. São realizadas às terças-feiras, às 16 horas, durante os dois semestres letivos, e têm duração média de 1:30h. As inscrições podem ser realizadas a qualquer momento. As sugestões para
 planejamento e/ou análise são apresentadas por escrito, caso seja possível identificar o problema estatístico (temos atendido muitos casos em que o próprio problema que é
 objeto de estudo não está bem definido e, nessa situação, a orientação estatística não é factível).</p>
   <p style="text-align: justify;">Participam da consulta: pesquisador(es) interessado(s) e orientador(a) (nos casos de mestrado ou doutorado), professores do departamento e alunos do bacharelado em Estatística.</p>

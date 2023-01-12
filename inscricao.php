@@ -15,7 +15,7 @@ formulário e comprovante de pagamento para a secretária Alessandra via e-mail
 para <a href = "mailto: cea@ime.usp.br">cea@ime.usp.br</a>.
 <br>
 <br>
-As triagens serão realizadas de 23 de fevereiro a 9 de março, de segunda-feira à sexta-feira, nos seguintes horários: 10h30, 11h30, 13h30, 14h30, 15h30, 16h30 e
+As triagens de projetos serão realizadas de 23 de fevereiro a 9 de março, de segunda-feira à sexta-feira, nos seguintes horários: 10h30, 11h30, 13h30, 14h30, 15h30, 16h30 e
 17h30 por videoconferência (agendar horário por telefone (11-3091-6133) ou por e-mail (<a href = "mailto: cea@ime.usp.br">cea@ime.usp.br</a>)).
 
 <br>
