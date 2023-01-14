@@ -8,7 +8,7 @@
 
   <div class="alert alert-info" role="warning">
 <p style="padding 30px" >
-As inscrições para consultas podem ser realizadas a qualquer momento. As submissões de projetos para análise no 1º semestre de 2023 ocorrerão de
+As inscrições para consultas <strong>(detalhes na aba Home)</strong> podem ser realizadas a qualquer momento. As submissões de projetos <strong>(detalhes na aba Home)</strong> para análise no 1º semestre de 2023 ocorrerão de
 17/01 a 17/02, por meio do preenchimento do formulário em <a href="docs/fichacea.doc" target="_blank" rel="noopener noreferrer" >DOC</a>
     ou <a href="docs/fichacea.pdf" target="_blank" rel="noopener noreferrer">PDF</a>. Enviar
 formulário e comprovante de pagamento para a secretária Alessandra via e-mail
@@ -36,12 +36,12 @@ As triagens de projetos serão realizadas de 23 de fevereiro a 9 de março, de s
     <a href="docs/fichacea.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
     e enviar por e-mail ou entregar na secretaria do CEA (IME, Bloco A, Sala 214).</li>
 
-  <li>Aguardar o contato da secretária do CEA com informações sobre o método de pagamento da taxa de R$ 80,00 (oitenta reais) de atendimento da consulta.</li>
+  <li><strong>Aguardar o contato da secretária do CEA com informações sobre o método de pagamento da taxa de R$ 80,00 (oitenta reais) de atendimento da consulta.</strong></li>
   <li>Se houver interesse, marcar uma consulta de retorno para esclarecimentos finais que, na medida do possível,
     será realizada com os mesmos professores presentes na primeira consulta. Nesse retorno serão discutidas as sugestões apresentadas e/ou dada orientação
     sobre a possível elaboração do projeto pelo CEA.</li>
   <li>No caso de mestrandos ou doutorandos, a consulta somente será realizada com a presença do(a) orientador(a).</li>
-  <li>Se for o caso essa consulta pode servir como triagem, conforme o procedimento em B. Nesta situação, observar os itens 3 e 4 (de B).</li>
+ 
   </ol>
   <p style="text-align: justify;"><strong>B - Procedimento para projetos</strong></p>
   <ol style="text-align: justify;">
@@ -49,10 +49,10 @@ As triagens de projetos serão realizadas de 23 de fevereiro a 9 de março, de s
     <a href="docs/fichacea.doc" target="_blank" rel="noopener noreferrer">DOC</a> ou
     <a href="docs/fichacea.pdf" target="_blank" rel="noopener noreferrer">PDF</a> e
     enviar por e-mail ou entregar na secretaria do CEA (IME, Bloco A, Sala 214).</li>
-  <li>Aguardar o contato da secretária do CEA com informações sobre o método de pagamento da taxa de R$ 80,00 (oitenta reais) e sobre a data da triagem
-  (fevereiro/março ou julho/agosto). Em caso de mestrados ou doutorados, comparecer com o(a) orientador(a).</li>
-  <li>Aguardar resposta do CEA sobre a possibilidade ou não da realização do projeto. Esta resposta geralmente é dada no prazo máximo de um mês.</li>
-  <li>Caso o projeto seja selecionado, pagar taxa adicional de R$ 200,00 (duzentos reais).</li>
+  <li><strong>Aguardar o contato da secretária do CEA com informações sobre o método de pagamento da taxa de R$ 80,00 (oitenta reais) e sobre a data da triagem
+  (fevereiro/março ou julho/agosto)</strong>. Em caso de mestrados ou doutorados, comparecer com o(a) orientador(a).</li>
+  <li>Aguardar resposta do CEA sobre a possibilidade ou não da realização do projeto. Esta resposta geralmente é dada no prazo máximo de um mês<strong> após a triagem</strong>.</li>
+  <li>Caso o projeto seja selecionado, pagar <strong>uma</strong> taxa adicional de R$ 200,00 (duzentos reais).</li>
   </ol>
   <p style="text-align: justify;"><strong>Observação</strong>: O preenchimento criterioso da ficha de inscrição pode contribuir substancialmente para o sucesso
     da consulta (temos notado que muitos projetos não estão claros quanto aos aspectos passíveis de análise estatística). Na maioria dos casos,
