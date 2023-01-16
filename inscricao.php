@@ -10,15 +10,10 @@
 <p style="padding 30px" >
 As inscrições para consultas <strong>(detalhes na aba Home)</strong> podem ser realizadas a qualquer momento.</p>
 
-<p> As submissões de projetos <strong>(detalhes na aba Home)</strong> para análise no 1º semestre de 2023 ocorrerão de 17/01 a 17/02. </p>
+<p> As submissões de projetos <strong>(detalhes na aba Home)</strong> para análise no 1º semestre de 2023 ocorrerão de 17/01 a 17/02. As triagens de projetos serão realizadas de 23 de fevereiro a 9 de março por videoconferência (agendar horário por telefone (11-3091-6133) ou por e-mail (<a href = "mailto: cea@ime.usp.br">cea@ime.usp.br</a>)).
 
 <p>Tanto para consultas quanto para projetos deve ser preenchido o formulário em <a href="docs/fichacea.doc" target="_blank" rel="noopener noreferrer" >DOC</a>
-    ou <a href="docs/fichacea.pdf" target="_blank" rel="noopener noreferrer">PDF</a>. Enviar formulário e comprovante de pagamento da taxa de R$ 80,00 (oitenta reais) para a secretária Alessandra via e-mail para cea@ime.usp.br.
-<br>
-<br>
-As triagens de projetos serão realizadas de 23 de fevereiro a 9 de março, de segunda-feira à sexta-feira, nos seguintes horários: 10h30, 11h30, 13h30, 14h30, 15h30, 16h30 e
-17h30 por videoconferência (agendar horário por telefone (11-3091-6133) ou por e-mail (<a href = "mailto: cea@ime.usp.br">cea@ime.usp.br</a>)).
-
+    ou <a href="docs/fichacea.pdf" target="_blank" rel="noopener noreferrer">PDF</a>. Enviar formulário e comprovante de pagamento da taxa de R$ 80,00 (oitenta reais) para a secretária Alessandra via e-mail para <a href = "mailto: cea@ime.usp.br">cea@ime.usp.br</a>.
 <br>
 
 </p>

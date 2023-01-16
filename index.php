@@ -35,7 +35,7 @@ cotejado com outros projetos inscritos. Nessa triagem selecionam-se os projetos 
 
 <br>
 <div class="text-center">
-<a href="http://inscricao.cea.ime.usp.br/" target="_blank" class="btn btn-danger btn-block p-4"><strong>   CLICAR PARA INSCRIÇÃO   </strong></a>
+<a href="inscricao.php" class="btn btn-danger btn-block p-4"><strong>   CLICAR PARA INSCRIÇÃO   </strong></a>
   </div>
 </p>
 
