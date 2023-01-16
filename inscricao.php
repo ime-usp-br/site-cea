@@ -8,11 +8,12 @@
 
   <div class="alert alert-info" role="warning">
 <p style="padding 30px" >
-As inscrições para consultas <strong>(detalhes na aba Home)</strong> podem ser realizadas a qualquer momento. As submissões de projetos <strong>(detalhes na aba Home)</strong> para análise no 1º semestre de 2023 ocorrerão de
-17/01 a 17/02, por meio do preenchimento do formulário em <a href="docs/fichacea.doc" target="_blank" rel="noopener noreferrer" >DOC</a>
-    ou <a href="docs/fichacea.pdf" target="_blank" rel="noopener noreferrer">PDF</a>. Enviar
-formulário e comprovante de pagamento para a secretária Alessandra via e-mail
-para <a href = "mailto: cea@ime.usp.br">cea@ime.usp.br</a>.
+As inscrições para consultas <strong>(detalhes na aba Home)</strong> podem ser realizadas a qualquer momento.</p>
+
+<p> As submissões de projetos <strong>(detalhes na aba Home)</strong> para análise no 1º semestre de 2023 ocorrerão de 17/01 a 17/02. </p>
+
+<p>Tanto para consultas quanto para projetos deve ser preenchido o formulário em <a href="docs/fichacea.doc" target="_blank" rel="noopener noreferrer" >DOC</a>
+    ou <a href="docs/fichacea.pdf" target="_blank" rel="noopener noreferrer">PDF</a>. Enviar formulário e comprovante de pagamento da taxa de R$ 80,00 (oitenta reais) para a secretária Alessandra via e-mail para cea@ime.usp.br.
 <br>
 <br>
 As triagens de projetos serão realizadas de 23 de fevereiro a 9 de março, de segunda-feira à sexta-feira, nos seguintes horários: 10h30, 11h30, 13h30, 14h30, 15h30, 16h30 e
@@ -32,11 +33,11 @@ As triagens de projetos serão realizadas de 23 de fevereiro a 9 de março, de s
   <h3 style="text-align: justify;">Informações adicionais</h3>
   <p style="text-align: justify;"><strong>A - Procedimento para consultas</strong></p>
   <ol style="text-align: justify;">
-  <li>Preencher a ficha em papel por meio dos formulários em formato <a href="docs/fichacea.doc" target="_blank" rel="noopener noreferrer">DOC</a> ou
+  <li>Preencher a ficha por meio dos formulários em formato <a href="docs/fichacea.doc" target="_blank" rel="noopener noreferrer">DOC</a> ou
     <a href="docs/fichacea.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
     e enviar por e-mail ou entregar na secretaria do CEA (IME, Bloco A, Sala 214).</li>
 
-  <li><strong>Aguardar o contato da secretária do CEA com informações sobre o método de pagamento da taxa de R$ 80,00 (oitenta reais) de atendimento da consulta.</strong></li>
+  <li>Aguardar o contato da secretária do CEA para escolha da data da consulta. Detalhes sobre a forma de pagamento são encontrados no final desta página.</li>
   <li>Se houver interesse, marcar uma consulta de retorno para esclarecimentos finais que, na medida do possível,
     será realizada com os mesmos professores presentes na primeira consulta. Nesse retorno serão discutidas as sugestões apresentadas e/ou dada orientação
     sobre a possível elaboração do projeto pelo CEA.</li>
@@ -45,14 +46,13 @@ As triagens de projetos serão realizadas de 23 de fevereiro a 9 de março, de s
   </ol>
   <p style="text-align: justify;"><strong>B - Procedimento para projetos</strong></p>
   <ol style="text-align: justify;">
-  <li>Preencher a ficha em papel por meio dos formulários em formato
+  <li>Preencher a ficha por meio dos formulários em formato
     <a href="docs/fichacea.doc" target="_blank" rel="noopener noreferrer">DOC</a> ou
     <a href="docs/fichacea.pdf" target="_blank" rel="noopener noreferrer">PDF</a> e
     enviar por e-mail ou entregar na secretaria do CEA (IME, Bloco A, Sala 214).</li>
-  <li><strong>Aguardar o contato da secretária do CEA com informações sobre o método de pagamento da taxa de R$ 80,00 (oitenta reais) e sobre a data da triagem
-  (fevereiro/março ou julho/agosto)</strong>. Em caso de mestrados ou doutorados, comparecer com o(a) orientador(a).</li>
-  <li>Aguardar resposta do CEA sobre a possibilidade ou não da realização do projeto. Esta resposta geralmente é dada no prazo máximo de um mês<strong> após a triagem</strong>.</li>
-  <li>Caso o projeto seja selecionado, pagar <strong>uma</strong> taxa adicional de R$ 200,00 (duzentos reais).</li>
+  <li>Aguardar o contato da secretária do CEA para escolha da data da triagem (fevereiro/março ou julho/agosto).  Detalhes sobre a forma de pagamento são encontrados no final desta página. Em caso de mestrados ou doutorados, comparecer com o(a) orientador(a).</li>
+  <li>Aguardar resposta do CEA sobre a possibilidade ou não da realização do projeto. Esta resposta geralmente é dada no prazo máximo de um mês após a triagem.</li>
+  <li>Caso o projeto seja selecionado, pagar taxa adicional de R$ 200,00 (duzentos reais).</li>
   </ol>
   <p style="text-align: justify;"><strong>Observação</strong>: O preenchimento criterioso da ficha de inscrição pode contribuir substancialmente para o sucesso
     da consulta (temos notado que muitos projetos não estão claros quanto aos aspectos passíveis de análise estatística). Na maioria dos casos,
@@ -79,14 +79,13 @@ As triagens de projetos serão realizadas de 23 de fevereiro a 9 de março, de s
 <br>C/C: 130185-3
 <br>CTA RECEITA - IME
 <br>CNPJ: 63.025.530/0008-80 
-<br>
+
 <br>
 <br>Enviar comprovante por e-mail para cea@ime.usp.br.
-
 </p>
 
-<br>
-<br>
+
+
 <br>
 
   </div>
