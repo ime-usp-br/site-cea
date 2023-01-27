@@ -68,8 +68,6 @@ As inscrições para consultas <strong>(detalhes na aba Home)</strong> podem ser
 <br>CTA RECEITA - IME
 <br>CNPJ: 63.025.530/0008-80 
 
-<br>
-<br>Enviar comprovante por e-mail para cea@ime.usp.br.
 </p>
 
 
