@@ -9,22 +9,15 @@ include ("cabecalhoteste.html");
 <div class="container">
 
 
-<h3>História</h3>
 
-<br><br>
-
-
-
-  <h3>Finalidade</h3>
-
-
-  <p style="text-align: justify;">O CEA é um Centro de Consultoria, por meio do qual professores do <a href="http://www.ime.usp.br/mae">Departamento de Estatística</a> do <a href="http://www.ime.usp.br">Instituto de Matemática e Estatística</a> da <a href="http://www.usp.br">Universidade de São Paulo</a> prestam serviços de consultoria e assessoria em Estatística Aplicada para os demais órgãos da Universidade, para outras instituições públicas e privadas ou mesmo pessoas físicas.</p>
+<h3>Quem somos </h3>
+<br>
+<p style="text-align: justify;">Criado em 1974, o Centro de Estatísitica Aplicada (CEA) é um Centro de Consultoria, por meio do qual professores do <a href="http://www.ime.usp.br/mae">Departamento de Estatística</a> do <a href="http://www.ime.usp.br">Instituto de Matemática e Estatística</a> da <a href="http://www.usp.br">Universidade de São Paulo</a> prestam serviços de consultoria e assessoria em Estatística Aplicada para os demais órgãos da Universidade, para outras instituições públicas e privadas ou mesmo pessoas físicas.</p>
   <p style="text-align: justify;">Embora exista interesse na participação em projetos interdisciplinares de maior porte, atualmente o CEA conta com dois tipos de atividades básicas:</p>
   <ul>
   <li style="text-align: justify;">consultas;</li>
   <li style="text-align: justify;">realização de projetos de assessoria estatística de pequeno porte.</li>
-  </ul>
-  <br>
+  </ul> 
 
 
 <br>
