@@ -45,8 +45,18 @@
     height: 50px;
     margin: 0px;
     padding: 10px;
-    float: right;
+    float: left;
     text-indent: -9999px;
+}
+
+.logo-cea2 {
+  background: url(horizontal.png) no-repeat;
+  width: 600px;
+  height: 60px;
+  margin: 0px;
+  padding: 10px;
+  float: right;
+  text-indent: -9999px;
 }
 
 .texto-usuario {
