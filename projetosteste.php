@@ -16,7 +16,7 @@ cotejado com outros projetos inscritos. Nessa triagem selecionam-se os projetos 
 
 
 <div class="alert alert-info" role="warning">
-<p> As submissões de projetos para análise no 1º semestre de 2023 ocorrerão de 17/01 a 17/02. As triagens de projetos serão realizadas de 23 de fevereiro a 9 de março por videoconferência (agendar horário por telefone (11-3091-6133) ou por e-mail (<a href = "mailto: cea@ime.usp.br">cea@ime.usp.br</a>)).
+<p> As submissões de projetos para análise no 1º semestre de 2023 ocorrerão de 17/01 a 17/02. As triagens de projetos serão realizadas de 23 de fevereiro a 9 de março por videoconferência.
 
 
 </div>
