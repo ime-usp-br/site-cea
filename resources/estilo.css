@@ -50,12 +50,11 @@
 }
 
 .logo-cea2 {
-  background: url(horizontal.png) no-repeat;
+  background: url(resources\horizontal2.png) no-repeat;
   width: 600px;
-  height: 50px;
+  height: 80px;
   margin: 0px;
-  padding: 10px;
-  float: left;
+  padding: 5px;
   text-indent: -9999px;
 }
 
