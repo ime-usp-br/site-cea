@@ -39,7 +39,7 @@
 }
 
 
-.logo-cea1 {
+.logo-cea {
     background: url(cea.png) no-repeat;
     width: 130px;
     height: 50px;
@@ -49,14 +49,6 @@
 
 }
 
-.logo-cea {
-  background: url(docs\horizontal.png) no-repeat;
-  width: 600px;
-  height: 80px;
-  margin: 0px;
-  padding: 5px;
-  text-indent: -9999px;
-}
 
 .texto-usuario {
   margin-right: 10px;
