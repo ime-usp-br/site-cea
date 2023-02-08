@@ -27,11 +27,11 @@ include ("cabecalhoteste.html");
 <div class="container">
 <div class="row">
     <div class="col-3">
-    <a style="color:#696969" type="button" class="btn btn-warning btn-lg" href="projetosteste.php">  Projetos   </a>
+    <a style="color:#595959" type="button" class="btn btn-warning btn-lg" href="consultasteste.php">  Consultas </a>
   </div>
 
     <div class="col-3">
-    <a style="color:#696969" type="button" class="btn btn-warning btn-lg" href="consultasteste.php">   Consultas  </a>
+    <a style="color:#595959" type="button" class="btn btn-warning btn-lg" href="projetosteste.php">  Projetos </a>
   </div>
   </div>
   </div>
