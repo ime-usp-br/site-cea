@@ -1,5 +1,5 @@
 <?php
-include ("cabecalhoteste.html");
+include ("cabecalho.html");
 ?>
 <head>
   <link rel="stylesheet" type="text/css" href="reset.css">
@@ -16,13 +16,13 @@ include ("cabecalhoteste.html");
 
 <div class="col-3">
 <div class="row mt-3">
-<a style="color:#595959" type="button" class="btn btn-warning btn-lg" href="bibliotecaconsultateste.php">  Consultas </a>
+<a style="color:#595959" type="button" class="btn btn-warning btn-lg" href="bibliotecaconsulta.php">  Consultas </a>
 </div>
 </div>
 
 <div class="col-3">
 <div class="row mt-3">
-<a style="color:#595959" type="button" class="btn btn-warning btn-lg" href="bibliotecaprojetoteste.php">  Projetos </a>
+<a style="color:#595959" type="button" class="btn btn-warning btn-lg" href="bibliotecaprojeto.php">  Projetos </a>
 </div>
 </div>
 
