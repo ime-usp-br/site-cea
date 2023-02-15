@@ -8,7 +8,7 @@ include ("cabecalho.html");
 <h3>Publicações de Consultas</h3>
 
 <div style="padding-top: 10px; padding-bottom: 20px; margin-bottom: 20px;">
-<form method="POST" action="bibliotecaconsultateste.php">
+<form method="POST" action="bibliotecaconsulta.php">
 Consulte as consultas por ano:
 <select id="menu_ano" onchange="this.form.submit()" name="ano">
 
