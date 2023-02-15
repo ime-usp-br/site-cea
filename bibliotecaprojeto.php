@@ -8,7 +8,7 @@ include ("cabecalho.html");
 <h3>Publicações de Projetos</h3>
 
 <div style="padding-top: 10px; padding-bottom: 20px; margin-bottom: 20px;">
-<form method="POST" action="bibliotecaprojetoteste.php">
+<form method="POST" action="bibliotecaprojeto.php">
 Consulte os projetos por ano:
 <select id="menu_ano" onchange="this.form.submit()" name="ano">
 
