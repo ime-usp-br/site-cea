@@ -30,32 +30,33 @@ cotejado com outros projetos inscritos. Nessa triagem selecionam-se os projetos 
   <h3>Procedimento para projetos</h3>
   <br>
   <ol style="text-align: justify;">
-  <li>Efetuar o pagamento da taxa de R$ 80,00 (oitenta reais) e preencher a ficha por meio do formulário <a href="https://inscricao.cea.ime.usp.br/" target="_blank" rel="noopener noreferrer">on-line</a>.</li>
-  <li>Aguardar o contato da secretária do CEA para escolha da data da triagem (fevereiro/março ou julho/agosto).  Detalhes sobre a forma de pagamento são encontrados no final desta página. Em caso de mestrados ou doutorados, comparecer com o(a) orientador(a).</li>
-  <li>Aguardar resposta do CEA sobre a possibilidade ou não da realização do projeto. Esta resposta geralmente é dada no prazo máximo de um mês após a triagem.</li>
-  <li><b>Caso o projeto seja selecionado, pagar taxa adicional de R$ 200,00 (duzentos reais).</b></li>
+  <li>Preencher a ficha de inscrição por meio do formulário <a href="https://inscricao.cea.ime.usp.br/" target="_blank" rel="noopener noreferrer">on-line</a>.</li>
+  <li>Ao finalizar a inscrição é enviado por e-mail ao inscrito um boleto no
+      valor de R$ 80,00 referente à taxa de inscrição. Aguardar o contato da
+      secretária do CEA para escolha da data da triagem (fevereiro/março ou
+      julho/agosto). Em caso de mestrados ou doutorados, comparecer com
+      o(a) orientador(a).</li>
+  <li>Aguardar resposta do CEA sobre a possibilidade ou não da realização
+      do projeto. Esta resposta geralmente é dada no prazo máximo de um
+      mês após a triagem.</li>
+  <li><b>Caso o projeto seja selecionado, será enviado por e-mail ao inscrito
+      um boleto adicional no valor de R$ 200,00 (duzentos reais).</b></li>
   </ol>
-  <p style="text-align: justify;"><strong>Observação</strong>: O preenchimento criterioso da ficha de inscrição pode contribuir substancialmente para o sucesso
-    da consulta (temos notado que muitos projetos não estão claros quanto aos aspectos passíveis de análise estatística). Na maioria dos casos,
-    a assessoria estatística traz melhores resultados quando o projeto ainda está na fase de planejamento.</p>
+  <br>
+  
+  <h4><b>Observações:</b></h4>
+  <br>
+  <ol style="text-align: justify;">
+  <li>Os boletos vencem em 3 dias após a data de emissão. Em caso de falha
+      no envio ou perda do prazo, entrar em contato com a secretária do CEA
+      para combinar o pagamento da taxa via depósito bancário.</li>
+  <li>O preenchimento criterioso da ficha de inscrição pode contribuir
+      substancialmente para o sucesso da triagem (temos notado que muitos
+      projetos não estão claros quanto aos aspectos passíveis de análise
+      estatística).</li>
+  </ol>
   
     <br>
-
-  <h3>Pagamento de taxas</h3>
-
-<p>
-
-<br>
-Será realizado através de transferência bancária:
-<br>
-<br>Banco do Brasil
-<br>Agência: 7009-2
-<br>C/C: 130185-3
-<br>CTA RECEITA - IME
-<br>CNPJ: 63.025.530/0008-80 
-
-</p>
-
 
 
   <?php
