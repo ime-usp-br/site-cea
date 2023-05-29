@@ -14,14 +14,14 @@ junho/julho (para trabalhos a serem analisados no 2º semestre) a fim de que par
 cotejado com outros projetos inscritos. Nessa triagem selecionam-se os projetos que serão analisados no semestre letivo subsequente. Cada projeto tem como consultores os professores do departamento e, como colaboradores, os alunos formandos do bacharelado em Estatística, sempre assessorados pelos pesquisadores interessados. A seleção dos projetos é baseada na quantidade e disponibilidade de dados, de consultores e alunos, etc. Projetos para os quais tenha sido realizada consulta anterior têm prioridade.</p>
   <p><b>Uma vez que nos projetos realizados pelo CEA é feita uma análise estatística completa, usualmente solicita-se dos(as) pesquisadores(as) disponibilidade para a realização de várias reuniões com a equipe do CEA para o desenvolvimento adequado da análise durante o semestre.</b></p>
 
-  <!--ALERTA PARA DATA DAS INSCRIÇÕES-->
-  <!-- <div class="alert alert-info" role="warning">
-<p> As submissões de projetos para análise no 1º semestre de 2023 ocorrerão de 17/01 a 17/02. As triagens de projetos serão realizadas de 23 de fevereiro a 9 de março por videoconferência.
-</div> -->
+  ALERTA PARA DATA DAS INSCRIÇÕES
+  <div class="alert alert-info" role="warning">
+<p> As submissões de projetos para análise no 2º semestre de 2023 ocorrerão de 26/05 a 23/06. <!-- As triagens de projetos serão realizadas de 23 de fevereiro a 9 de março por videoconferência.-->
+</div>
 
-
+<!--
 <p>As inscrições para o primeiro semestre de 2023 estão encerradas.</p>
-
+-->
 </p>
 
 
