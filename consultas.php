@@ -12,7 +12,7 @@ objeto de estudo não está bem definido e, nessa situação, a orientação est
   <p style="text-align: justify;">Participam da consulta: pesquisador(es) interessado(s) e orientador(a) (nos casos de mestrado ou doutorado), professores do departamento e alunos do bacharelado em Estatística.</p>
 
 
-<p>As inscrições para o primeiro semestre de 2023 estão encerradas. Para reserva de vagas para o segundo semestre entrar em contato com a secretária Alessandra por telefone (11-3091-6133) ou por e-mail (cea@ime.usp.br). </p>
+<p>As inscrições para o segundo semestre de 2023 estão encerradas. Para reserva de vagas para o primeiro semestre de 2024 entrar em contato com a secretária Alessandra por telefone (11-3091-6133) ou por e-mail (cea@ime.usp.br). </p>
 
 
 

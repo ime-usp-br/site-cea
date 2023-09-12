@@ -16,13 +16,13 @@ include ("cabecalho.html");
 
 <div class="col-3">
 <div class="row mt-3">
-<a style="color:#595959" type="button" class="btn btn-warning btn-lg" href="bibliotecaconsulta.php">  Consultas </a>
+<a style="color:#F5F5F5; background-color:#142c68" type="button" class="btn btn-warning btn-lg" href="bibliotecaconsulta.php">  Consultas </a>
 </div>
 </div>
 
 <div class="col-3">
 <div class="row mt-3">
-<a style="color:#595959" type="button" class="btn btn-warning btn-lg" href="bibliotecaprojeto.php">  Projetos </a>
+<a style="color:#F5F5F5; background-color:#142c68" type="button" class="btn btn-warning btn-lg" href="bibliotecaprojeto.php">  Projetos </a>
 </div>
 </div>
 

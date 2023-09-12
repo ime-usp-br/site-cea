@@ -27,11 +27,11 @@ include ("cabecalho.html");
 <div class="container">
 <div class="row">
     <div class="col-3">
-    <a style="color:#595959" type="button" class="btn btn-warning btn-lg" href="consultas.php">  Consultas </a>
+    <a style="color:#F5F5F5; background-color:#142c68" type="button" class="btn btn-warning btn-lg" href="consultas.php">  Consultas </a>
   </div>
 
     <div class="col-3">
-    <a style="color:#595959" type="button" class="btn btn-warning btn-lg" href="projetos.php">  Projetos </a>
+    <a style="color:#F5F5F5; background-color:#142c68" type="button" class="btn btn-warning btn-lg" href="projetos.php">  Projetos </a>
   </div>
   </div>
   </div>
@@ -40,7 +40,7 @@ include ("cabecalho.html");
 
   ALERTA PARA DATA DAS INSCRIÇÕES
   <div class="alert alert-info" role="warning">
-    <p> As submissões de projetos para análise no 2º semestre de 2023 ocorrerão de 26/05 a 07/07.
+    <p> A data de submissão de análises para o primeiro semestre de 2024 será informada em breve.
   </div>
 
 <br>

@@ -16,7 +16,7 @@ cotejado com outros projetos inscritos. Nessa triagem selecionam-se os projetos 
 
   ALERTA PARA DATA DAS INSCRIÇÕES
   <div class="alert alert-info" role="warning">
-<p> As submissões de projetos para análise no 2º semestre de 2023 ocorrerão de 26/05 a 07/07. <!-- As triagens de projetos serão realizadas de 23 de fevereiro a 9 de março por videoconferência.-->
+<p> A data de submissão de análises para o primeiro semestre de 2024 será informada em breve. <!-- As triagens de projetos serão realizadas de 23 de fevereiro a 9 de março por videoconferência.-->
 </div>
 
 <!--
