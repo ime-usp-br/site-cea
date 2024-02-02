@@ -12,7 +12,7 @@ include ("cabecalho.html");
 
 <h3>Quem somos </h3>
 <br>
-<p style="text-align: justify;">Criado em 1974, o <b>Centro de Estatísitica Aplicada (CEA)</b> é um Centro de Consultoria, por meio do qual professores do <a href="http://www.ime.usp.br/mae">Departamento de Estatística</a> do <a href="http://www.ime.usp.br">Instituto de Matemática e Estatística</a> da <a href="http://www.usp.br">Universidade de São Paulo</a> prestam serviços de consultoria e assessoria em Estatística Aplicada para os demais órgãos da Universidade, para outras instituições públicas e privadas ou mesmo pessoas físicas.</p>
+<p style="text-align: justify;">Criado em 1974, o <b>Centro de Estatística Aplicada (CEA)</b> é um Centro de Consultoria, por meio do qual professores do <a href="http://www.ime.usp.br/mae">Departamento de Estatística</a> do <a href="http://www.ime.usp.br">Instituto de Matemática e Estatística</a> da <a href="http://www.usp.br">Universidade de São Paulo</a> prestam serviços de consultoria e assessoria em Estatística Aplicada para os demais órgãos da Universidade, para outras instituições públicas e privadas ou mesmo pessoas físicas.</p>
   <p style="text-align: justify;">Embora exista interesse na participação em projetos interdisciplinares de maior porte, atualmente o CEA conta com dois tipos de atividades básicas:</p>
   <ul>
   <li style="text-align: justify;">consultas;</li>
