@@ -40,7 +40,7 @@ include ("cabecalho.html");
 
   ALERTA PARA DATA DAS INSCRIÇÕES
   <div class="alert alert-info" role="warning">
-    <p> <b>O período de submissão de análises para o primeiro semestre de 2024 está aberto até o dia 9 de fevereiro.</b></p>
+    <p> <b>O período de inscrição de consultas para o primeiro semestre já estão encerradas. Já estamos recebendo inscrições de consultas para o segundo semestre.</b></p>
   </div>
 
 <br>
