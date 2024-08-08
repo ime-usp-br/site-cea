@@ -16,7 +16,7 @@ cotejado com outros projetos inscritos. Nessa triagem selecionam-se os projetos 
 
   ALERTA PARA DATA DAS INSCRIÇÕES
   <div class="alert alert-info" role="warning">
-<p> <b>O período de submissão de análises para o segundo semestre de 2024 está aberto até 08/07. <!-- As triagens de projetos serão realizadas de 23 de fevereiro a 9 de março por videoconferência.--></b></p>
+<p> <b>As inscrições para análise de projetos para o segundo semestre de 2024 estão encerradas. <!-- As triagens de projetos serão realizadas de 23 de fevereiro a 9 de março por videoconferência.--></b></p>
 </div>
 
 <!--
