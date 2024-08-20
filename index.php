@@ -51,10 +51,10 @@ include ("cabecalho.html");
 
   PROGRAMAÇÃO DAS PALESTRAS
   <div class="alert alert-info" role="warning" style="background-color: yellow; color: black;">
-  <p><b>Palestra: A Estatística nos Ensaios Clínicos</b></p>
+  <p><b>Palestra: Regressão Quantílica Local Robusta na Construção de Curvas de Referência</b></p>
   <ul>
-  <li style="text-align: justify;"><b>Palestrante</b>: Elizabeth González Patinõ (Instituto Butantã-USP)</li>
-  <li style="text-align: justify;"><b>Data</b>: 20/08/2024</li>
+  <li style="text-align: justify;"><b>Palestrante</b>: Carmen Diva Saldiva André (IME-USP)</li>
+  <li style="text-align: justify;"><b>Data</b>: 21/08/2024</li>
   <li style="text-align: justify;"><b>Horário</b>: 16h00</li>
   <li style="text-align: justify;"><b>Local</b>: Sala B144 (IME-USP)</li>
   </ul>
