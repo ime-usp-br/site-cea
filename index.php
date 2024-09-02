@@ -51,14 +51,7 @@ include ("cabecalho.html");
 
   PROGRAMAÇÃO DAS PALESTRAS
   <div class="alert alert-info" role="warning" style="background-color: yellow; color: black;">
-  <p><b>Palestra: A Associação Brasileira de Estatística: Realizações e Desafios</b></p>
-  <ul>
-  <li style="text-align: justify;"><b>Palestrante</b>: Viviana Giampaoli</li>
-  <li style="text-align: justify;"><b>Data</b>: 29/08/2024</li>
-  <li style="text-align: justify;"><b>Horário</b>: 16h00</li>
-  <li style="text-align: justify;"><b>Local</b>: Sala B144 (IME-USP)</li>
-  </ul>
-  
+  <p><b>No momento, não há palestras programadas.</b></p>
   </div>
 
 <br>
