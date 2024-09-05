@@ -12,7 +12,12 @@ objeto de estudo não está bem definido e, nessa situação, a orientação est
   <p style="text-align: justify;">Participam da consulta: pesquisador(es) interessado(s) e orientador(a) (nos casos de mestrado ou doutorado), professores do departamento e alunos do bacharelado em Estatística.</p>
 
 
-<p>Para inscrições no primeiro semestre de 2024 entrar em contato com a secretária Alessandra por telefone (11-3091-6133) ou por e-mail (cea@ime.usp.br). </p>
+  <p>Para realizar as inscrições, entrar em contato com a secretária Alessandra por telefone (11-3091-6133) ou por e-mail (cea@ime.usp.br). </p>
+
+ALERTA PARA DATA DAS INSCRIÇÕES
+<div class="alert alert-info" role="warning">
+<p> As inscrições de consultas para o <b>primeiro semestre de 2025</b> serão abertas em <b>dezembro</b>.</p>
+</div>
 
 
 

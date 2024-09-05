@@ -38,9 +38,9 @@ include ("cabecalho.html");
 
 </p>
 
-  ALERTA PARA DATA DAS INSCRIÇÕES
-  <div class="alert alert-info" role="warning" style="background-color: yellow; color: black;">
-  <p><b>As inscrições para análise de projetos para o segundo semestre de 2024 estão encerradas.</b></p>
+ALERTA PARA DATA DAS INSCRIÇÕES
+<div class="alert alert-info" role="warning" style="background-color: yellow; color: black;">
+<p> As inscrições de consultas e projetos para o <b>primeiro semestre de 2025</b> serão abertas em <b>dezembro</b>.</p>
 </div>
 
 <br>
