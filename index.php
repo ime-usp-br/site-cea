@@ -51,7 +51,13 @@ include ("cabecalho.html");
 
   PROGRAMAÇÃO DAS PALESTRAS
   <div class="alert alert-info" role="warning" style="background-color: yellow; color: black;">
-  <p><b>No momento, não há palestras programadas.</b></p>
+  <p><b>Palestra: Produção de Estatísticas TIC no Brasil</b></p>
+  <ul>
+  <li style="text-align: justify;"><b>Palestrante</b>: Mayra Pizzot e João Cláudio Miranda</li>
+  <li style="text-align: justify;"><b>Data</b>: 10/09/2024</li>
+  <li style="text-align: justify;"><b>Horário</b>: 16h00</li>
+  <li style="text-align: justify;"><b>Local</b>: Sala B144 (IME-USP)</li>
+  </ul>
   </div>
 
 <br>
