@@ -15,7 +15,7 @@ objeto de estudo não está bem definido e, nessa situação, a orientação est
 
 ALERTA PARA DATA DAS INSCRIÇÕES
 <div class="alert alert-info" role="warning">
-<p>As inscrições de <b>consultas</b> para o <b>primeiro semestre de 2025</b> serão abertas em <b>dezembro</b>.</p>
+<p>As inscrições para o <b>segundo semestre de 2024</b> estão <b>encerradas</b>. <br>As inscrições de <b>consultas</b> para o <b>primeiro semestre de 2025</b> serão abertas em <b>dezembro</b>.</p>
 </div>
 
 
