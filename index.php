@@ -40,7 +40,7 @@ include ("cabecalho.html");
 
 ALERTA PARA DATA DAS INSCRIÇÕES
 <div class="alert alert-info" role="warning" style="background-color: yellow; color: black;">
-<p>As inscrições para o ano de <b>2024</b> estão <b>encerradas</b>. <br> As inscrições de <b>projetos</b> e <b>consultas</b> para o <b>primeiro semestre de 2025</b> serão abertas em <b>dezembro</b>.</p>
+<p> As inscrições de projetos e consultas para o primeiro semestre de 2025 ocorrerão entre <b>02/12/2024 e 10/02/2025</b>. <br>As triagens de projetos serão realizadas entre <b>10/02/2025 e 20/02/2025</b>.</p>
 </div>
 
 <br>

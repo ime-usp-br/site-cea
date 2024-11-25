@@ -16,13 +16,12 @@ cotejado com outros projetos inscritos. Nessa triagem selecionam-se os projetos 
 
   ALERTA PARA DATA DAS INSCRIÇÕES
   <div class="alert alert-info" role="warning">
-<p> As inscrições para o ano de <b>2024</b> estão <b>encerradas</b>. <br>  As inscrições de <b>projetos</b> para o <b>primeiro semestre de 2025</b> serão abertas em <b>dezembro</b>.<!-- As triagens de projetos serão realizadas de 23 de fevereiro a 9 de março por videoconferência.--></p>
+  <p> As inscrições de projetos para o primeiro semestre de 2025 ocorrerão entre <b>02/12/2024 e 10/02/2025</b>. <br>As triagens de projetos serão realizadas entre <b>10/02/2025 e 20/02/2025</b>.</p>
 </div>
 
 <!--
 <p>As inscrições para o primeiro semestre de 2023 estão encerradas.</p>
 -->
-</p>
 
 
   <br>
