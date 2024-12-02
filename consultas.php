@@ -11,15 +11,10 @@ planejamento e/ou análise são apresentadas por escrito, caso seja possível id
 objeto de estudo não está bem definido e, nessa situação, a orientação estatística não é factível).<b> Ressaltamos que as atividades de consulta são pontuais, sem que haja a realização de uma análise estatística completa, o que é feito na modalidade projeto descrita a seguir.</b></p>
   <p style="text-align: justify;">Participam da consulta: pesquisador(es) interessado(s) e orientador(a) (nos casos de mestrado ou doutorado), professores do departamento e alunos do bacharelado em Estatística.</p>
 
-  <p>Para realizar as inscrições, entrar em contato com a secretária Alessandra por telefone (11-3091-6133) ou por e-mail (cea@ime.usp.br). </p>
-
-ALERTA PARA DATA DAS INSCRIÇÕES
+<!--ALERTA PARA DATA DAS INSCRIÇÕES-->
 <div class="alert alert-info" role="warning">
-<p> As inscrições de consultas para o primeiro semestre de 2025 ocorrerão entre <b>02/12/2024 e 10/02/2025</b>. <br>As triagens serão realizadas entre <b>10/02/2025 e 20/02/2025</b>.</p>
+  <p> As inscrições para consultas seguem fluxo contínuo.</p>
 </div>
-
-
-
 
     <br>
 
@@ -35,6 +30,7 @@ ALERTA PARA DATA DAS INSCRIÇÕES
       os mesmos professores presentes na primeira consulta. Nesse retorno serão discutidas as sugestões apresentadas e/ou dada orientação sobre
       a possível elaboração do projeto pelo CEA.</li>
   <li>No caso de mestrandos ou doutorandos, a consulta somente será realizada com a presença do(a) orientador(a).</li>
+  <li>Para agendar a data da consulta, entrar em contato com a secretária Alessandra por telefone (11-3091-6133) ou por e-mail (cea@ime.usp.br). </li>
  
   </ol>
 <p style="text-align: justify;">
