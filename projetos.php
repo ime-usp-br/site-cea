@@ -16,7 +16,7 @@ cotejado com outros projetos inscritos. Nessa triagem selecionam-se os projetos 
 
   ALERTA PARA DATA DAS INSCRIÇÕES
   <div class="alert alert-info" role="warning">
-  <p> As inscrições de projetos para o primeiro semestre de 2025 estão <b>fechadas</b>. <br>As triagens de projetos serão realizadas entre <b>11/02/2025 e 20/02/2025</b>.</p>
+  <p> As inscrições de projetos para o primeiro semestre de 2025 estão <b>fechadas</b>.</p>
 </div>
 
 <!--
@@ -29,7 +29,7 @@ cotejado com outros projetos inscritos. Nessa triagem selecionam-se os projetos 
   <h3>Procedimento para projetos</h3>
   <br>
   <ol style="text-align: justify;">
-  <li>Preencher a ficha de inscrição por meio do formulário <a href="https://inscricao.cea.ime.usp.br/" target="_blank" rel="noopener noreferrer">on-line</a>.</li>
+  <li>Preencher a ficha de inscrição por meio do formulário <!--<a href="https://inscricao.cea.ime.usp.br/" target="_blank" rel="noopener noreferrer">-->on-line</a> (<b>no momento, as inscrições para projetos estão fechadas</b>).</li>
   <li>Ao finalizar a inscrição é enviado por e-mail ao inscrito um boleto no
       valor de R$ 80,00 referente à taxa de inscrição. Aguardar o contato da
       secretária do CEA para escolha da data da triagem (fevereiro/março ou
@@ -61,3 +61,4 @@ cotejado com outros projetos inscritos. Nessa triagem selecionam-se os projetos 
   <?php
   include ("rodape.html");
   ?>
+
