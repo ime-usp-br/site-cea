@@ -40,9 +40,8 @@ include ("cabecalho.html");
 
 ALERTA PARA DATA DAS INSCRIÇÕES
   <div class="alert alert-info" role="warning" style="background-color: yellow; color: black;">
-  <p> As inscrições de projetos para o primeiro semestre de 2025 estão <b>fechadas</b>. <br>Inscrições de consultas para o primeiro semestre de 2025 continuam <b>abertas</b>. <br>As triagens de projetos serão realizadas entre <b>11/02/2025 e 20/02/2025</b>.</p>
+  <p> As inscrições de projetos para o primeiro semestre de 2025 estão <b>fechadas</b>. <br>Inscrições de consultas para o primeiro semestre de 2025 continuam <b>abertas</b>. </p>
   </div>
-
 
 <br>
 <h3>Palestras:</h3>
@@ -62,6 +61,33 @@ ALERTA PARA DATA DAS INSCRIÇÕES
   </ul> --->
   </div>
 
+  <br>
+  <h3>Projetos analisados:</h3>
+  <br>
+
+    <p style="text-align: justify;">Os pesquisadores e seus respectivos projetos, que serão analisados no primeiro semestre de 2025, podem ser visto a seguir:</p>
+
+    <ul>
+      <li style="text-align: justify;">Guilherme (25P01): <b>Previsão de volatilidade usando dados intradiários e sentimento de mercado.</b></li><br>
+      <li style="text-align: justify;">Carlos Lederman - FMUSP (25P02): <b>Análise comparativa de doenças cardiovasculares, endócrinas, neoplasias e respiratórias entre duas coortes, uma do InCor e outra da Universidade de Greifswald.</b></li><br>
+      <li style="text-align: justify;">Orival Freitas - FMUSP (25P03): <b>Marcadores de necrose miocárdica no pós-operatório de pacientes submetidos a tromboendarterectomia pulmonar com parada circulatória total em hipotermia profunda sem cardioplegia.</b></li><br>
+      <li style="text-align: justify;"> Aline Michele - FE (25P04): <b>As implicações do Programa Gestão em Foco na Rede Estadual de Ensino de São Paulo.</b></li><br>
+      <li style="text-align: justify;">Eloise Silva - FSP (25P05): <b>Relação entre perfil glicêmico na gestação e adiposidade em crianças de 4 a 5 anos de idade.</b></li><br>
+      <li style="text-align: justify;">Aldaísa - FSP (25P06): <b>Concentrações de proteína C-reativa ultrasensível materna e no cordão umbilical e tamanho do recém-nascido.</b></li><br>
+      <li style="text-align: justify;">Camila Baltazar - FMVZ (25P07): <b>Ocorrência da esporotricose felina no município de São Paulo e a desratização como medida ambiental de controle.</b></li><br>
+      <li style="text-align: justify;">Juliana Barbosa - FFLCH (25P08): <b>Transferências de traços fonético-fonológicos e os sotaques franceses na aquisição do português como língua adicional.</b></li><br>
+      <li style="text-align: justify;">Romeu Luizatto - EACH (25P09): <b>Programa “Novo Rio Pinheiros” - Uma avaliação a partir da percepção dos usuários das margens do Rio Pinheiros.</b></li><br>
+      <li style="text-align: justify;">Jair Costa - FE (25P10): <b>Jovens e a ciência: contribuições do projeto roses a partir das escolas rurais e urbanas da Amazônia Sul Ocidental Brasileira.</b></li><br>
+      <li style="text-align: justify;">Carolina Silva (25P11): <b>Análise da eficácia da L-asparaginase em inibir o processo metastático em linhagens de melanoma humano.</b></li><br>
+      <li style="text-align: justify;">Vanessa Coelho - Secretaria Municipal Saúde Campo Grande-MS (25P12): <b>Estudo da incidência de casos de dengue no município de Campo Grande no período de 2017 a 2024 com a aplicação de diferentes métodos de análise.</b></li><br>
+      <li style="text-align: justify;">Luciana Vismari - USCS (25P13): <b>Prescrição de medicamentos potencialmente inapropriados para idosos e disponibilidade na Rename: Uma avaliação no contexto ambulatorial.</b></li><br>
+      <li style="text-align: justify;">Manuel - FSP (25P14): <b>Agrupamento espacial de atitudes de violência doméstica em relação às mulheres em Moçambique.</b></li><br>
+      <li style="text-align: justify;">Luci Ana - FSP (25P15): <b>Epidemiologia do baixo Letramento em Saúde: contribuições da educação escolar.</b></li><br>
+      <li style="text-align: justify;">Jaquélie - FMUSP (25P16): <b>Tuberculose em Pacientes Idosos atendidos em Centro de Referência em São Paulo/SP, no período de 2018-2023.</b></li><br>
+      <li style="text-align: justify;">Fábio Kon - IME (25P17): <b>Análise da Sazonalidade da Natalidade no Brasil.</b></li><br>
+      <li style="text-align: justify;">Mônica Urias - FAU (25P18): <b>APO comparativa, antes e após intervenção construtiva, como ferramenta qualificadora do projeto.</b></li>
+    </ul>
+
 <br>
 <br>
 
@@ -70,3 +96,4 @@ ALERTA PARA DATA DAS INSCRIÇÕES
 <?php
 include ("rodape.html");
 ?>
+
