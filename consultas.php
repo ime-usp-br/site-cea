@@ -13,7 +13,8 @@ objeto de estudo não está bem definido e, nessa situação, a orientação est
 
 <!--ALERTA PARA DATA DAS INSCRIÇÕES-->
 <div class="alert alert-info" role="warning">
-  <p> As inscrições para consultas seguem fluxo contínuo.</p>
+  <p> As inscrições para consultas seguem fluxo contínuo.
+  <br>Inscrições de consultas para o primeiro semestre de 2025 estão <b>fechadas</b>.    <br> Inscrições de consultas para o segundo semestre de 2025 estão <b>abertas</b>.</p>
 </div>
 
     <br>
@@ -21,7 +22,7 @@ objeto de estudo não está bem definido e, nessa situação, a orientação est
  <h3>Procedimento para consultas</h3>
  <br>
   <ol style="text-align: justify;">
-  <li>Preencher a ficha de inscrição por meio do formulário <a href="https://inscricao.cea.ime.usp.br/" target="_blank" rel="noopener noreferrer">on-line</a>. </li>
+  <li>Preencher a ficha de inscrição por meio do formulário <a href="https://inscricao.cea.ime.usp.br/" target="_blank" rel="noopener noreferrer">on-line</a> (<b>Inscrições para o segundo semestre de 2025</b>). </li>
   <li>Ao finalizar a inscrição é enviado por e-mail ao inscrito um boleto no valor de R$ 80,00 referente à taxa de inscrição. O boleto vence em 3
       dias após a data de emissão. Em caso de falha no envio ou perda do prazo, entrar em contato com a secretária do CEA para combinar o
       pagamento da taxa via depósito bancário.</li>
@@ -45,3 +46,4 @@ objeto de estudo não está bem definido e, nessa situação, a orientação est
   <?php
   include ("rodape.html");
   ?>
+

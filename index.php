@@ -40,7 +40,7 @@ include ("cabecalho.html");
 
 ALERTA PARA DATA DAS INSCRIÇÕES
   <div class="alert alert-info" role="warning" style="background-color: yellow; color: black;">
-  <p> As inscrições de projetos para o primeiro semestre de 2025 estão <b>fechadas</b>. <br>Inscrições de consultas para o primeiro semestre de 2025 continuam <b>abertas</b>. </p>
+  <p> As inscrições de projetos para o primeiro semestre de 2025 estão <b>fechadas</b>. <br>Inscrições de consultas para o primeiro semestre de 2025 estão <b>fechadas</b>. <br> Inscrições de consultas para o segundo semestre de 2025 estão <b>abertas</b>.</p>
   </div>
 
 <br>
@@ -51,14 +51,42 @@ ALERTA PARA DATA DAS INSCRIÇÕES
 
   PROGRAMAÇÃO DAS PALESTRAS
   <div class="alert alert-info" role="warning" style="background-color: yellow; color: black;">
-  <p><b>No momento, não há palestras planejadas.</b></p>
-  <!---<p><b>Palestra: Produção de Estatísticas TIC no Brasil</b></p>
+    <!---<p><b>No momento, não há palestras planejadas.</b></p>--->
+  <p><b>Palestra: a ser determinada</b></p>
   <ul>
-  <li style="text-align: justify;"><b>Palestrante</b>: Mayra Pizzot e João Cláudio Miranda (Centro Regional de Estudos para o Desenvolvimento da Sociedade da Informação)</li>
-  <li style="text-align: justify;"><b>Data</b>: 10/09/2024</li>
+  <li style="text-align: justify;"><b>Palestrante</b>: Paulo Henrique</li>
+  <li style="text-align: justify;"><b>Data</b>: 13/03/2025</li>
   <li style="text-align: justify;"><b>Horário</b>: 16h00</li>
-  <li style="text-align: justify;"><b>Local</b>: Sala B144 (IME-USP)</li>
-  </ul> --->
+  <li style="text-align: justify;"><b>Local</b>: a ser determinado</li>
+  </ul>
+  <p><b>Palestra: a ser determinada</b></p>
+  <ul>
+  <li style="text-align: justify;"><b>Palestrante</b>: Lucas Damiani</li>
+  <li style="text-align: justify;"><b>Data</b>: 18/03/2025</li>
+  <li style="text-align: justify;"><b>Horário</b>: 17h00</li>
+  <li style="text-align: justify;"><b>Local</b>: a ser determinado</li>
+  </ul>
+  <p><b>Palestra: Análise de dados longitudinais</b></p>
+  <ul>
+  <li style="text-align: justify;"><b>Palestrante</b>: Francisco Marcelo</li>
+  <li style="text-align: justify;"><b>Data</b>: 20/03/2025</li>
+  <li style="text-align: justify;"><b>Horário</b>: 16h00</li>
+  <li style="text-align: justify;"><b>Local</b>: a ser determinado</li>
+  </ul>
+  <p><b>Palestra: Análise de dados longitudinais</b></p>
+  <ul>
+  <li style="text-align: justify;"><b>Palestrante</b>: Francisco Marcelo</li>
+  <li style="text-align: justify;"><b>Data</b>: 27/03/2025</li>
+  <li style="text-align: justify;"><b>Horário</b>: 16h00</li>
+  <li style="text-align: justify;"><b>Local</b>: a ser determinado</li>
+  </ul>
+  <p><b>Palestra: a ser determinada</b></p>
+  <ul>
+  <li style="text-align: justify;"><b>Palestrante</b>: Magno Tairone</li>
+  <li style="text-align: justify;"><b>Data</b>: 01/04/2025</li>
+  <li style="text-align: justify;"><b>Horário</b>: 17h00</li>
+  <li style="text-align: justify;"><b>Local</b>: a ser determinado</li>
+  </ul>
   </div>
 
   <br>
@@ -69,7 +97,7 @@ ALERTA PARA DATA DAS INSCRIÇÕES
 
     <ul>
       <li style="text-align: justify;">Guilherme (25P01): <b>Previsão de volatilidade usando dados intradiários e sentimento de mercado.</b></li><br>
-      <li style="text-align: justify;">Carlos Lederman - FMUSP (25P02): <b>Análise comparativa de doenças cardiovasculares, endócrinas, neoplasias e respiratórias entre duas coortes, uma do InCor e outra da Universidade de Greifswald.</b></li><br>
+      <li style="text-align: justify;">Leandro - FMUSP (25P02): <b>Análise comparativa de doenças cardiovasculares, endócrinas, neoplasias e respiratórias entre duas coortes, uma do InCor e outra da Universidade de Greifswald.</b></li><br>
       <li style="text-align: justify;">Orival Freitas - FMUSP (25P03): <b>Marcadores de necrose miocárdica no pós-operatório de pacientes submetidos a tromboendarterectomia pulmonar com parada circulatória total em hipotermia profunda sem cardioplegia.</b></li><br>
       <li style="text-align: justify;"> Aline Michele - FE (25P04): <b>As implicações do Programa Gestão em Foco na Rede Estadual de Ensino de São Paulo.</b></li><br>
       <li style="text-align: justify;">Eloise Silva - FSP (25P05): <b>Relação entre perfil glicêmico na gestação e adiposidade em crianças de 4 a 5 anos de idade.</b></li><br>
