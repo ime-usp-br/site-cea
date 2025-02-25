@@ -97,7 +97,7 @@ ALERTA PARA DATA DAS INSCRIÇÕES
 
     <ul>
       <li style="text-align: justify;">Guilherme (25P01): <b>Previsão de volatilidade usando dados intradiários e sentimento de mercado.</b></li><br>
-      <li style="text-align: justify;">Leandro - FMUSP (25P02): <b>Análise comparativa de doenças cardiovasculares, endócrinas, neoplasias e respiratórias entre duas coortes, uma do InCor e outra da Universidade de Greifswald.</b></li><br>
+      <li style="text-align: justify;">Leandro (25P02): <b>Análise comparativa de doenças cardiovasculares, endócrinas, neoplasias e respiratórias entre duas coortes, uma do InCor e outra da Universidade de Greifswald.</b></li><br>
       <li style="text-align: justify;">Orival Freitas - FMUSP (25P03): <b>Marcadores de necrose miocárdica no pós-operatório de pacientes submetidos a tromboendarterectomia pulmonar com parada circulatória total em hipotermia profunda sem cardioplegia.</b></li><br>
       <li style="text-align: justify;"> Aline Michele - FE (25P04): <b>As implicações do Programa Gestão em Foco na Rede Estadual de Ensino de São Paulo.</b></li><br>
       <li style="text-align: justify;">Eloise Silva - FSP (25P05): <b>Relação entre perfil glicêmico na gestação e adiposidade em crianças de 4 a 5 anos de idade.</b></li><br>
