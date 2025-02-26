@@ -52,37 +52,37 @@ ALERTA PARA DATA DAS INSCRIÇÕES
   PROGRAMAÇÃO DAS PALESTRAS
   <div class="alert alert-info" role="warning" style="background-color: yellow; color: black;">
     <!---<p><b>No momento, não há palestras planejadas.</b></p>--->
-  <p><b>Palestra: a ser determinada</b></p>
+  <p><b>Palestra: "Modelos mistos segmentados com ponto de mudança aleatório"</b></p>
   <ul>
-  <li style="text-align: justify;"><b>Palestrante</b>: Paulo Henrique</li>
+  <li style="text-align: justify;"><b>Palestrante</b>: Paulo Henrique Dourado da Silva</li>
   <li style="text-align: justify;"><b>Data</b>: 13/03/2025</li>
   <li style="text-align: justify;"><b>Horário</b>: 16h00</li>
   <li style="text-align: justify;"><b>Local</b>: a ser determinado</li>
   </ul>
-  <p><b>Palestra: a ser determinada</b></p>
+  <p><b>Palestra: "Métodos Bayesianos para cálculo de tamanho amostral em ensaios clínicos randomizados em cluster"</b></p>
   <ul>
-  <li style="text-align: justify;"><b>Palestrante</b>: Lucas Damiani</li>
+  <li style="text-align: justify;"><b>Palestrante</b>: Lucas Petri Damiani - Brazilian Clinical Research Institute - BCRI e IME-USP</li>
   <li style="text-align: justify;"><b>Data</b>: 18/03/2025</li>
   <li style="text-align: justify;"><b>Horário</b>: 17h00</li>
   <li style="text-align: justify;"><b>Local</b>: a ser determinado</li>
   </ul>
-  <p><b>Palestra: Análise de dados longitudinais</b></p>
+  <p><b>Palestra: "Análise de dados longitudinais"</b></p>
   <ul>
-  <li style="text-align: justify;"><b>Palestrante</b>: Francisco Marcelo</li>
+  <li style="text-align: justify;"><b>Palestrante</b>: Francisco Marcelo Monteiro da Rocha - UNIFESP</li>
   <li style="text-align: justify;"><b>Data</b>: 20/03/2025</li>
   <li style="text-align: justify;"><b>Horário</b>: 16h00</li>
   <li style="text-align: justify;"><b>Local</b>: a ser determinado</li>
   </ul>
-  <p><b>Palestra: Análise de dados longitudinais</b></p>
+  <p><b>Palestra: "Análise de dados longitudinais"</b></p>
   <ul>
-  <li style="text-align: justify;"><b>Palestrante</b>: Francisco Marcelo</li>
+  <li style="text-align: justify;"><b>Palestrante</b>: Francisco Marcelo Monteiro da Rocha - UNIFESP</li>
   <li style="text-align: justify;"><b>Data</b>: 27/03/2025</li>
   <li style="text-align: justify;"><b>Horário</b>: 16h00</li>
   <li style="text-align: justify;"><b>Local</b>: a ser determinado</li>
   </ul>
-  <p><b>Palestra: a ser determinada</b></p>
+  <p><b>Palestra: "Muito além da técnica: habilidades essenciais para estatísticos"</b></p>
   <ul>
-  <li style="text-align: justify;"><b>Palestrante</b>: Magno Tairone</li>
+  <li style="text-align: justify;"><b>Palestrante</b>: Magno Tairone de Freitas Severino - 17 horas</li>
   <li style="text-align: justify;"><b>Data</b>: 01/04/2025</li>
   <li style="text-align: justify;"><b>Horário</b>: 17h00</li>
   <li style="text-align: justify;"><b>Local</b>: a ser determinado</li>
@@ -96,24 +96,23 @@ ALERTA PARA DATA DAS INSCRIÇÕES
     <p style="text-align: justify;">Os pesquisadores e seus respectivos projetos, que serão analisados no primeiro semestre de 2025, podem ser visto a seguir:</p>
 
     <ul>
-      <li style="text-align: justify;">Guilherme (25P01): <b>Previsão de volatilidade usando dados intradiários e sentimento de mercado.</b></li><br>
-      <li style="text-align: justify;">Leandro (25P02): <b>Análise comparativa de doenças cardiovasculares, endócrinas, neoplasias e respiratórias entre duas coortes, uma do InCor e outra da Universidade de Greifswald.</b></li><br>
+      <li style="text-align: justify;">Leandro - FEA (25P01): <b>Previsão de volatilidade usando dados intradiários e sentimento de mercado.</b></li><br>
+      <li style="text-align: justify;">Carlos Lederman - FMUSP (25P02): <b>Análise comparativa de doenças cardiovasculares, endócrinas, neoplasias e respiratórias entre duas coortes, uma do InCor e outra da Universidade de Greifswald.</b></li><br>
       <li style="text-align: justify;">Orival Freitas - FMUSP (25P03): <b>Marcadores de necrose miocárdica no pós-operatório de pacientes submetidos a tromboendarterectomia pulmonar com parada circulatória total em hipotermia profunda sem cardioplegia.</b></li><br>
       <li style="text-align: justify;"> Aline Michele - FE (25P04): <b>As implicações do Programa Gestão em Foco na Rede Estadual de Ensino de São Paulo.</b></li><br>
-      <li style="text-align: justify;">Eloise Silva - FSP (25P05): <b>Relação entre perfil glicêmico na gestação e adiposidade em crianças de 4 a 5 anos de idade.</b></li><br>
-      <li style="text-align: justify;">Aldaísa - FSP (25P06): <b>Concentrações de proteína C-reativa ultrasensível materna e no cordão umbilical e tamanho do recém-nascido.</b></li><br>
-      <li style="text-align: justify;">Camila Baltazar - FMVZ (25P07): <b>Ocorrência da esporotricose felina no município de São Paulo e a desratização como medida ambiental de controle.</b></li><br>
-      <li style="text-align: justify;">Juliana Barbosa - FFLCH (25P08): <b>Transferências de traços fonético-fonológicos e os sotaques franceses na aquisição do português como língua adicional.</b></li><br>
-      <li style="text-align: justify;">Romeu Luizatto - EACH (25P09): <b>Programa “Novo Rio Pinheiros” - Uma avaliação a partir da percepção dos usuários das margens do Rio Pinheiros.</b></li><br>
-      <li style="text-align: justify;">Jair Costa - FE (25P10): <b>Jovens e a ciência: contribuições do projeto roses a partir das escolas rurais e urbanas da Amazônia Sul Ocidental Brasileira.</b></li><br>
-      <li style="text-align: justify;">Carolina Silva (25P11): <b>Análise da eficácia da L-asparaginase em inibir o processo metastático em linhagens de melanoma humano.</b></li><br>
-      <li style="text-align: justify;">Vanessa Coelho - Secretaria Municipal Saúde Campo Grande-MS (25P12): <b>Estudo da incidência de casos de dengue no município de Campo Grande no período de 2017 a 2024 com a aplicação de diferentes métodos de análise.</b></li><br>
-      <li style="text-align: justify;">Luciana Vismari - USCS (25P13): <b>Prescrição de medicamentos potencialmente inapropriados para idosos e disponibilidade na Rename: Uma avaliação no contexto ambulatorial.</b></li><br>
-      <li style="text-align: justify;">Manuel - FSP (25P14): <b>Agrupamento espacial de atitudes de violência doméstica em relação às mulheres em Moçambique.</b></li><br>
-      <li style="text-align: justify;">Luci Ana - FSP (25P15): <b>Epidemiologia do baixo Letramento em Saúde: contribuições da educação escolar.</b></li><br>
-      <li style="text-align: justify;">Jaquélie - FMUSP (25P16): <b>Tuberculose em Pacientes Idosos atendidos em Centro de Referência em São Paulo/SP, no período de 2018-2023.</b></li><br>
-      <li style="text-align: justify;">Fábio Kon - IME (25P17): <b>Análise da Sazonalidade da Natalidade no Brasil.</b></li><br>
-      <li style="text-align: justify;">Mônica Urias - FAU (25P18): <b>APO comparativa, antes e após intervenção construtiva, como ferramenta qualificadora do projeto.</b></li>
+      <li style="text-align: justify;">Aldaísa - FSP (25P05): <b>Concentrações de proteína C-reativa ultrasensível materna e no cordão umbilical e tamanho do recém-nascido.</b></li><br>
+      <li style="text-align: justify;">Camila Baltazar - FMVZ (25P06): <b>Ocorrência da esporotricose felina no município de São Paulo e a desratização como medida ambiental de controle.</b></li><br>
+      <li style="text-align: justify;">Juliana Barbosa - FFLCH (25P07): <b>Transferências de traços fonético-fonológicos e os sotaques franceses na aquisição do português como língua adicional.</b></li><br>
+      <li style="text-align: justify;">Romeu Luizatto - EACH (25P08): <b>Programa “Novo Rio Pinheiros” - Uma avaliação a partir da percepção dos usuários das margens do Rio Pinheiros.</b></li><br>
+      <li style="text-align: justify;">Jair Costa - FE (25P09): <b>Jovens e a ciência: contribuições do projeto roses a partir das escolas rurais e urbanas da Amazônia Sul Ocidental Brasileira.</b></li><br>
+      <li style="text-align: justify;">Carolina Silva (25P10): <b>Análise da eficácia da L-asparaginase em inibir o processo metastático em linhagens de melanoma humano.</b></li><br>
+      <li style="text-align: justify;">Vanessa Coelho - Secretaria Municipal Saúde Campo Grande-MS (25P11): <b>Estudo da incidência de casos de dengue no município de Campo Grande no período de 2017 a 2024 com a aplicação de diferentes métodos de análise.</b></li><br>
+      <li style="text-align: justify;">Luciana Vismari - USCS (25P12): <b>Prescrição de medicamentos potencialmente inapropriados para idosos e disponibilidade na Rename: Uma avaliação no contexto ambulatorial.</b></li><br>
+      <li style="text-align: justify;">Manuel - FSP (25P13): <b>Agrupamento espacial de atitudes de violência doméstica em relação às mulheres em Moçambique.</b></li><br>
+      <li style="text-align: justify;">Luci Ana - FSP (25P14): <b>Epidemiologia do baixo Letramento em Saúde: contribuições da educação escolar.</b></li><br>
+      <li style="text-align: justify;">Jaquélie - FMUSP (25P15): <b>Tuberculose em Pacientes Idosos atendidos em Centro de Referência em São Paulo/SP, no período de 2018-2023.</b></li><br>
+      <li style="text-align: justify;">Fábio Kon - IME (25P16): <b>Análise da Sazonalidade da Natalidade no Brasil.</b></li><br>
+      <li style="text-align: justify;">Mônica Urias - FAU (25P17): <b>APO comparativa, antes e após intervenção construtiva, como ferramenta qualificadora do projeto.</b></li>
     </ul>
 
 <br>
