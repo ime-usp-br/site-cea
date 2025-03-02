@@ -52,40 +52,40 @@ ALERTA PARA DATA DAS INSCRIÇÕES
   PROGRAMAÇÃO DAS PALESTRAS
   <div class="alert alert-info" role="warning" style="background-color: yellow; color: black;">
     <!---<p><b>No momento, não há palestras planejadas.</b></p>--->
+  <p><b>Palestra: "Muito além da técnica: habilidades essenciais para estatísticos"</b></p>
+  <ul>
+  <li style="text-align: justify;"><b>Palestrante</b>: Magno Tairone de Freitas Severino - Pefisa Soluções Financeiras e Insper</li>
+  <li style="text-align: justify;"><b>Data</b>: 11/03/2025</li>
+  <li style="text-align: justify;"><b>Horário</b>: 17h00</li>
+  <li style="text-align: justify;"><b>Local</b>: IME-USP, Sala B16</li>
+  </ul>
   <p><b>Palestra: "Modelos mistos segmentados com ponto de mudança aleatório"</b></p>
   <ul>
-  <li style="text-align: justify;"><b>Palestrante</b>: Paulo Henrique Dourado da Silva</li>
+  <li style="text-align: justify;"><b>Palestrante</b>: Paulo Henrique Dourado da Silva - Banco do Brasil - IME-USP</li>
   <li style="text-align: justify;"><b>Data</b>: 13/03/2025</li>
   <li style="text-align: justify;"><b>Horário</b>: 16h00</li>
-  <li style="text-align: justify;"><b>Local</b>: a ser determinado</li>
+  <li style="text-align: justify;"><b>Local</b>: IME-USP, Sala B16</li>
   </ul>
   <p><b>Palestra: "Métodos Bayesianos para cálculo de tamanho amostral em ensaios clínicos randomizados em cluster"</b></p>
   <ul>
   <li style="text-align: justify;"><b>Palestrante</b>: Lucas Petri Damiani - Brazilian Clinical Research Institute - BCRI e IME-USP</li>
   <li style="text-align: justify;"><b>Data</b>: 18/03/2025</li>
   <li style="text-align: justify;"><b>Horário</b>: 17h00</li>
-  <li style="text-align: justify;"><b>Local</b>: a ser determinado</li>
+  <li style="text-align: justify;"><b>Local</b>: IME-USP, Sala B16</li>
   </ul>
   <p><b>Palestra: "Análise de dados longitudinais"</b></p>
   <ul>
   <li style="text-align: justify;"><b>Palestrante</b>: Francisco Marcelo Monteiro da Rocha - UNIFESP</li>
   <li style="text-align: justify;"><b>Data</b>: 20/03/2025</li>
   <li style="text-align: justify;"><b>Horário</b>: 16h00</li>
-  <li style="text-align: justify;"><b>Local</b>: a ser determinado</li>
+  <li style="text-align: justify;"><b>Local</b>: IME-USP, Sala B16</li>
   </ul>
   <p><b>Palestra: "Análise de dados longitudinais"</b></p>
   <ul>
   <li style="text-align: justify;"><b>Palestrante</b>: Francisco Marcelo Monteiro da Rocha - UNIFESP</li>
   <li style="text-align: justify;"><b>Data</b>: 27/03/2025</li>
   <li style="text-align: justify;"><b>Horário</b>: 16h00</li>
-  <li style="text-align: justify;"><b>Local</b>: a ser determinado</li>
-  </ul>
-  <p><b>Palestra: "Muito além da técnica: habilidades essenciais para estatísticos"</b></p>
-  <ul>
-  <li style="text-align: justify;"><b>Palestrante</b>: Magno Tairone de Freitas Severino - 17 horas</li>
-  <li style="text-align: justify;"><b>Data</b>: 01/04/2025</li>
-  <li style="text-align: justify;"><b>Horário</b>: 17h00</li>
-  <li style="text-align: justify;"><b>Local</b>: a ser determinado</li>
+  <li style="text-align: justify;"><b>Local</b>: IME-USP, Sala B16</li>
   </ul>
   </div>
 
