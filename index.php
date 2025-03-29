@@ -51,14 +51,14 @@ ALERTA PARA DATA DAS INSCRIÇÕES
 
   PROGRAMAÇÃO DAS PALESTRAS
   <div class="alert alert-info" role="warning" style="background-color: yellow; color: black;">
-    <!---<p><b>No momento, não há palestras planejadas.</b></p>--->
-  <p><b>Palestra: "Análise de dados longitudinais"</b></p>
+  <p><b>No momento, não há palestras planejadas.</b></p>
+  <!---<p><b>Palestra: "Análise de dados longitudinais"</b></p>
   <ul>
   <li style="text-align: justify;"><b>Palestrante</b>: Francisco Marcelo Monteiro da Rocha - UNIFESP</li>
   <li style="text-align: justify;"><b>Data</b>: 27/03/2025</li>
   <li style="text-align: justify;"><b>Horário</b>: 16h00</li>
   <li style="text-align: justify;"><b>Local</b>: IME-USP, Sala B16</li>
-  </ul>
+  </ul>--->
   </div>
 
   <br>
