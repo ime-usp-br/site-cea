@@ -13,8 +13,7 @@ objeto de estudo não está bem definido e, nessa situação, a orientação est
 
 <!--ALERTA PARA DATA DAS INSCRIÇÕES-->
 <div class="alert alert-info" role="warning">
-  <p> As inscrições para consultas seguem fluxo contínuo.
-  <br>Inscrições de consultas para o primeiro semestre de 2025 estão <b>fechadas</b>.    <br> Inscrições de consultas para o segundo semestre de 2025 estão <b>abertas</b>.</p>
+  <p> As inscrições para consultas seguem fluxo contínuo.</p>
 </div>
 
     <br>

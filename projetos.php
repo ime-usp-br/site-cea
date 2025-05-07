@@ -16,7 +16,7 @@ cotejado com outros projetos inscritos. Nessa triagem selecionam-se os projetos 
 
   ALERTA PARA DATA DAS INSCRIÇÕES
   <div class="alert alert-info" role="warning">
-  <p> As inscrições de projetos para o primeiro semestre de 2025 estão <b>fechadas</b>.</p>
+  <p> <b>Inscrições</b> de projetos para o segundo semestre de 2025: <b>15/05 a 25/06</b>.</p>
 </div>
 
 <!--
