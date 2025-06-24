@@ -16,7 +16,7 @@ cotejado com outros projetos inscritos. Nessa triagem selecionam-se os projetos 
 
   ALERTA PARA DATA DAS INSCRIÇÕES
   <div class="alert alert-info" role="warning">
-  <p> <b>Inscrições</b> de projetos para o segundo semestre de 2025: <b>15/05 a 25/06</b>. <br> <b>Triagem</b> de projetos para o segundo semestre de 2025: <b>16/06 a 15/07</b>.</p>
+  <p> <b>Inscrições</b> de projetos para o segundo semestre de 2025: <b>15/05 a 07/07</b>. <br> <b>Triagem</b> de projetos para o segundo semestre de 2025: <b>16/06 a 15/07</b>.</p>
 </div>
 
 <!--
