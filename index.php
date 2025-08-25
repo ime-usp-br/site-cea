@@ -61,6 +61,7 @@ ALERTA PARA DATA DAS INSCRIÇÕES
   </ul>--->
   </div>
 
+  <!---
   <br>
   <h3>Projetos analisados:</h3>
   <br>
@@ -86,7 +87,7 @@ ALERTA PARA DATA DAS INSCRIÇÕES
       <li style="text-align: justify;">Fábio Kon - IME (25P16): <b>Análise da Sazonalidade da Natalidade no Brasil.</b></li><br>
       <li style="text-align: justify;">Mônica Urias - FAU (25P17): <b>APO comparativa, antes e após intervenção construtiva, como ferramenta qualificadora do projeto.</b></li>
     </ul>
-
+--->
 <br>
 <br>
 
