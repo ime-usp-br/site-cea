@@ -21,6 +21,7 @@ cotejado com outros projetos inscritos. Nessa triagem selecionam-se os projetos 
     <b>estarão abertas de 08/12/2025 a 09/02/2026</b>.<br> 
     <ul><li><b>Triagem dos projetos:</b> de <b>02/02/2026</b> a <b>19/02/2026</b>.</li><ul>
   <p>
+</div>
 
 <!--
 <p>As inscrições para o primeiro semestre de 2023 estão encerradas.</p>
