@@ -16,8 +16,11 @@ cotejado com outros projetos inscritos. Nessa triagem selecionam-se os projetos 
 
   ALERTA PARA DATA DAS INSCRIÇÕES
   <div class="alert alert-info" role="warning">
-  <p> Inscrições de projetos para o segundo semestre de 2025 estão <b>fechadas</b>.</p>
-</div>
+  <p>
+    As inscrições para <b>projetos</b> do primeiro semestre de 2026 
+    <b>estarão abertas de 08/12/2025 a 09/02/2026</b>.<br> 
+    <ul><li><b>Triagem dos projetos:</b> de <b>02/02/2026</b> a <b>19/02/2026</b>.</li><ul>
+  <p>
 
 <!--
 <p>As inscrições para o primeiro semestre de 2023 estão encerradas.</p>
@@ -31,7 +34,7 @@ cotejado com outros projetos inscritos. Nessa triagem selecionam-se os projetos 
   <ol style="text-align: justify;">
   <li>Preencher a ficha de inscrição por meio do formulário <a href="https://inscricao.cea.ime.usp.br/" target="_blank" rel="noopener noreferrer"> on-line</a>.</li>
   <li>Ao finalizar a inscrição é enviado por e-mail ao inscrito um boleto no
-      valor de R$ 80,00 referente à taxa de inscrição. Aguardar o contato da
+      valor de R$ 100,00 referente à taxa de inscrição. Aguardar o contato da
       secretária do CEA para escolha da data da triagem (fevereiro/março ou
       julho/agosto). Em caso de mestrados ou doutorados, comparecer com
       o(a) orientador(a).</li>
@@ -39,7 +42,7 @@ cotejado com outros projetos inscritos. Nessa triagem selecionam-se os projetos 
       do projeto. Esta resposta geralmente é dada no prazo máximo de um
       mês após a triagem.</li>
   <li><b>Caso o projeto seja selecionado, será enviado por e-mail ao inscrito
-      um boleto adicional no valor de R$ 200,00 (duzentos reais).</b></li>
+      um boleto adicional no valor de R$ 250,00 (duzentos e cinquenta reais).</b></li>
   </ol>
   <br>
   
