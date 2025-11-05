@@ -22,7 +22,7 @@ objeto de estudo não está bem definido e, nessa situação, a orientação est
  <br>
   <ol style="text-align: justify;">
   <li>Preencher a ficha de inscrição por meio do formulário <a href="https://inscricao.cea.ime.usp.br/" target="_blank" rel="noopener noreferrer">on-line</a>. </li>
-  <li>Ao finalizar a inscrição é enviado por e-mail ao inscrito um boleto no valor de R$ 80,00 referente à taxa de inscrição. O boleto vence em 3
+  <li>Ao finalizar a inscrição é enviado por e-mail ao inscrito um boleto no valor de R$ 100,00 referente à taxa de inscrição. O boleto vence em 3
       dias após a data de emissão. Em caso de falha no envio ou perda do prazo, entrar em contato com a secretária do CEA para combinar o
       pagamento da taxa via depósito bancário.</li>
   <li>Após efetuar o pagamento da taxa de inscrição, aguardar o contato da secretária do CEA para escolha da data da consulta.</li>
