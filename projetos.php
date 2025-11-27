@@ -35,7 +35,7 @@ cotejado com outros projetos inscritos. Nessa triagem selecionam-se os projetos 
   <ol style="text-align: justify;">
   <li>Preencher a ficha de inscrição por meio do formulário <a href="https://inscricao.cea.ime.usp.br/" target="_blank" rel="noopener noreferrer"> on-line</a>.</li>
   <li>Ao finalizar a inscrição é enviado por e-mail ao inscrito um boleto no
-      valor de R$ 100,00 referente à taxa de inscrição. Aguardar o contato da
+      valor de <b>R$ 80,00</b> referente à <i>taxa de inscrição</i>. Aguardar o contato da
       secretária do CEA para escolha da data da triagem (fevereiro/março ou
       julho/agosto). Em caso de mestrados ou doutorados, comparecer com
       o(a) orientador(a).</li>
