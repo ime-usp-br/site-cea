@@ -38,19 +38,30 @@ include ("cabecalho.html");
 
 </p>
 
-ALERTA PARA DATA DAS INSCRIÇÕES
-  <div class="alert alert-info" role="warning" style="background-color: yellow; color: black;">
-  <p>
-    <strong>Atenção:</strong><br>
-    <ul>
-    <li>As inscrições para <b>projetos</b> do primeiro semestre de 2026 
-    <b>estarão abertas de 08/12/2025 a 09/02/2026</b>.<br>
-    🔍 A <b>triagem dos projetos</b> ocorrerá de <b>02/02/2026 a 19/02/2026</b>.<br>
-    <li>As inscrições para <b>consultas</b> em 2026 serão em <b>fluxo contínuo</b>.
-    <ul>
-  </p>
-  <p><em>Obs.:</em> Os <b>valores para 2026</b> foram atualizados.</p>
-  </div>
+<h5 class="font-weight-bold" style="color: black;">DATA DAS INSCRIÇÕES</h5>
+
+<div class="alert alert-info" style="background-color: #c7f4ff; color: black; border: 1px solid #bbdefb; border-radius: 8px;">
+    <p class="mb-2">
+        <strong>Projetos - 1º Semestre de 2026:</strong><br>
+        As inscrições para projetos <b>estão encerradas</b> (período: 08/12/2025 a 09/02/2026).
+    </p>
+    <p class="mb-2">
+        🔍 <b>Triagem:</b> A triagem dos projetos inscritos ocorre de <b>02/02/2026 a 19/02/2026</b>.
+    </p>
+    <hr style="border-top: 1px solid #bbdefb;">
+    <p class="mb-0 small">
+        <em>Observação: Os <b>valores para 2026</b> foram atualizados.</em>
+    </p>
+</div>
+
+<div class="alert alert-warning" style="background-color: #f9ed51; color: black; border: 1px solid #ffeeba; border-radius: 8px;">
+    <p class="mb-2">
+        <strong>⚠️ ATENÇÃO - Consultas:</strong><br>
+        Em razão da alta demanda, informamos que as consultas inscritas a partir de
+        <b>10/02/2026</b> serão agendadas para o <b>segundo semestre de 2026</b>.
+    </p>
+    <p class="mb-0"><em>Agradecemos a compreensão.</em></p>
+</div>
 
 <br>
 <h3>Palestras:</h3>
@@ -59,7 +70,7 @@ ALERTA PARA DATA DAS INSCRIÇÕES
   <p style="text-align: justify;">O Centro de Estatística Aplicada realiza periodicamente palestras abertas ao público. Veja a programação logo abaixo:</p>
 
   PROGRAMAÇÃO DAS PALESTRAS
-  <div class="alert alert-info" role="warning" style="background-color: yellow; color: black;">
+  <div class="alert alert-info" role="warning" style="background-color: #fef79c; color: black;">
   <p><b>No momento, não há palestras planejadas.</b></p>
   <!---<p><b>Palestra: "Análise de dados longitudinais"</b></p>
   <ul>

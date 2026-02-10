@@ -14,17 +14,24 @@ junho/julho (para trabalhos a serem analisados no 2º semestre) a fim de que par
 cotejado com outros projetos inscritos. Nessa triagem selecionam-se os projetos que serão analisados no semestre letivo subsequente. Cada projeto tem como consultores os professores do departamento e, como colaboradores, os alunos formandos do bacharelado em Estatística, sempre assessorados pelos pesquisadores interessados. A seleção dos projetos é baseada na quantidade e disponibilidade de dados, de consultores e alunos, etc. Projetos para os quais tenha sido realizada consulta anterior têm prioridade.</p>
   <p><b>Uma vez que nos projetos realizados pelo CEA é feita uma análise estatística completa, usualmente solicita-se dos(as) pesquisadores(as) disponibilidade para a realização de várias reuniões com a equipe do CEA para o desenvolvimento adequado da análise durante o semestre.</b></p>
 
-  ALERTA PARA DATA DAS INSCRIÇÕES
-  <div class="alert alert-info" role="warning">
-  <p>
-    As inscrições para <b>projetos</b> do primeiro semestre de 2026 
-    <b>estarão abertas de 08/12/2025 a 09/02/2026</b>.<br> 
-    <ul><li><b>Triagem dos projetos:</b> de <b>02/02/2026</b> a <b>19/02/2026</b>.</li><ul>
-  <p>
+<h5 class="font-weight-bold" style="color: black;">DATA DAS INSCRIÇÕES</h5>
+
+<div class="alert alert-info" style="background-color: #c7f4ff; color: black; border: 1px solid #bbdefb; border-radius: 8px;">
+    <p class="mb-2">
+        <strong>Projetos - 1º Semestre de 2026:</strong><br>
+        As inscrições para projetos <b>estão encerradas</b> (período: 08/12/2025 a 09/02/2026).
+    </p>
+    <p class="mb-2">
+        🔍 <b>Triagem:</b> A triagem dos projetos inscritos ocorre de <b>02/02/2026 a 19/02/2026</b>.
+    </p>
+    <hr style="border-top: 1px solid #bbdefb;">
+    <p class="mb-0 small">
+        <em>Observação: Os <b>valores para 2026</b> foram atualizados.</em>
+    </p>
 </div>
 
 <!--
-<p>As inscrições para o primeiro semestre de 2023 estão encerradas.</p>
+link das inscrições: https://inscricao.cea.ime.usp.br/
 -->
 
 
@@ -33,7 +40,7 @@ cotejado com outros projetos inscritos. Nessa triagem selecionam-se os projetos 
   <h3>Procedimento para projetos</h3>
   <br>
   <ol style="text-align: justify;">
-  <li>Preencher a ficha de inscrição por meio do formulário <a href="https://inscricao.cea.ime.usp.br/" target="_blank" rel="noopener noreferrer"> on-line</a>.</li>
+  <li>Preencher a ficha de inscrição por meio do formulário <!-- <a href="https://inscricao.cea.ime.usp.br/" target="_blank" rel="noopener noreferrer">--> on-line</a>.</li>
   <li>Ao finalizar a inscrição é enviado por e-mail ao inscrito um boleto no
       valor de <b>R$ 80,00</b> referente à <i>taxa de inscrição</i>. Aguardar o contato da
       secretária do CEA para escolha da data da triagem (fevereiro/março ou

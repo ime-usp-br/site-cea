@@ -12,8 +12,13 @@ objeto de estudo não está bem definido e, nessa situação, a orientação est
   <p style="text-align: justify;">Participam da consulta: pesquisador(es) interessado(s) e orientador(a) (nos casos de mestrado ou doutorado), professores do departamento e alunos do bacharelado em Estatística.</p>
 
 <!--ALERTA PARA DATA DAS INSCRIÇÕES-->
-<div class="alert alert-info" role="warning">
-  <p> As inscrições para consultas seguem fluxo contínuo.</p>
+<div class="alert alert-warning" style="background-color: #f9ed51; color: black; border: 1px solid #ffeeba; border-radius: 8px;">
+    <p class="mb-2">
+        <strong>⚠️ ATENÇÃO ⚠️</strong><br>
+        Em razão da alta demanda, informamos que as consultas inscritas a partir de
+        <b>10/02/2026</b> serão agendadas para o <b>segundo semestre de 2026</b>.
+    </p>
+    <p class="mb-0"><em>Agradecemos a compreensão.</em></p>
 </div>
 
     <br>
