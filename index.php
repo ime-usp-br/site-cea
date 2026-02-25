@@ -57,8 +57,7 @@ include ("cabecalho.html");
 <div class="alert alert-warning" style="background-color: #f9ed51; color: black; border: 1px solid #ffeeba; border-radius: 8px;">
     <p class="mb-2">
         <strong>⚠️ ATENÇÃO - Consultas:</strong><br>
-        Em razão da alta demanda, informamos que as consultas inscritas a partir de
-        <b>10/02/2026</b> serão agendadas para o <b>segundo semestre de 2026</b>.
+        As consultas serão agendadas conforme a disponibilidade da agenda do semestre.
     </p>
     <p class="mb-0"><em>Agradecemos a compreensão.</em></p>
 </div>
