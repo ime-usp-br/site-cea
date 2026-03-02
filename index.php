@@ -45,9 +45,6 @@ include ("cabecalho.html");
         <strong>Projetos - 1º Semestre de 2026:</strong><br>
         As inscrições para projetos <b>estão encerradas</b> (período: 08/12/2025 a 09/02/2026).
     </p>
-    <p class="mb-2">
-        🔍 <b>Triagem:</b> A triagem dos projetos inscritos ocorre de <b>02/02/2026 a 19/02/2026</b>.
-    </p>
     <hr style="border-top: 1px solid #bbdefb;">
     <p class="mb-0 small">
         <em>Observação: Os <b>valores para 2026</b> foram atualizados.</em>
@@ -82,6 +79,12 @@ include ("cabecalho.html");
     <th>Título</th>
     <th>Convidado</th>
   </tr>
+  
+  <tr>
+    <td>10/03 - 16h</td>
+    <td>Bayesian structured additive quantile regression for inflated bounded data</td>
+    <td>Francisco Felipe de Queiroz – IME-USP</td>
+  </tr>
 
   <tr>
     <td>12/03 - 16h</td>
@@ -94,6 +97,12 @@ include ("cabecalho.html");
     <td>Análise de dados longitudinais</td>
     <td>Francisco Marcelo Monteiro da Rocha - UNIFESP</td>
   </tr>
+
+ <tr>
+    <td>24/03 - 16h</td>
+    <td>Causal inference from observational studies: challenges, contributions and future directions</td>
+    <td>Adèle Helena Ribeiro – University of Münster (Germany)</td>
+ </tr>
 
   <tr>
     <td>26/03 - 16h</td>
