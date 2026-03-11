@@ -82,12 +82,6 @@ include ("cabecalho.html");
   </tr>
   
   <tr>
-    <td>10/03 - 16h</td>
-    <td>Bayesian structured additive quantile regression for inflated bounded data</td>
-    <td>Francisco Felipe de Queiroz – IME-USP</td>
-  </tr>
-
-  <tr>
     <td>12/03 - 16h</td>
     <td>Análise de dados longitudinais</td>
     <td>Francisco Marcelo Monteiro da Rocha - UNIFESP</td>
@@ -107,12 +101,6 @@ include ("cabecalho.html");
     <td>Adèle Helena Ribeiro - University of Münster, Germany</td>
     <td>Auditório Jacy Monteiro</td>
   </tr>
-
- <tr>
-    <td>24/03 - 16h</td>
-    <td>Causal inference from observational studies: challenges, contributions and future directions</td>
-    <td>Adèle Helena Ribeiro – University of Münster (Germany)</td>
- </tr>
 
   <tr>
     <td>26/03 - 16h</td>
