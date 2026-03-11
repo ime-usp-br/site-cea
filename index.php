@@ -81,30 +81,40 @@ include ("cabecalho.html");
     <th>Data</th>
     <th>Título</th>
     <th>Convidado</th>
+    <th>Local</th>
   </tr>
 
   <tr>
     <td>12/03 - 16h</td>
     <td>Análise de dados longitudinais</td>
     <td>Francisco Marcelo Monteiro da Rocha - UNIFESP</td>
+    <td>Auditório Jacy Monteiro</td>
   </tr>
 
   <tr>
     <td>19/03 - 16h</td>
     <td>Análise de dados longitudinais</td>
     <td>Francisco Marcelo Monteiro da Rocha - UNIFESP</td>
+    <td>Sala B101</td>
+  </tr>
+
+  <tr>
+    <td>24/03 - 16h</td>
+    <td>Causal inference from observational studies: challenges, contributions and future directions</td>
+    <td>Adèle Helena Ribeiro - University of Münster, Germany</td>
+    <td>Auditório Jacy Monteiro</td>
   </tr>
 
   <tr>
     <td>26/03 - 16h</td>
     <td>Modelagem e otimização em riscos e crédito</td>
     <td>Mateus Gonzalez de Freitas Pinto - Banco Pan/BTG Pactual</td>
+    <td>Auditório Jacy Monteiro</td>
   </tr>
 </table>
+
 <br>
 <br>
-
-
 </div>
 <?php
 include ("rodape.html");
