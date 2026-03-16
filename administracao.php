@@ -8,9 +8,9 @@ include ("cabecalho.html");
 <br>
 
 
-<p><strong>Diretora Científica: </strong> &nbsp; <a href="http://www.ime.usp.br/botter">Denise Aparecida Botter</a></p>
-<p><strong>Vice-Diretora Científica: </strong> &nbsp;<a href="http://www.ime.usp.br/lane">Airlane Pereira Alencar</a></p>
-<p><strong>Conselho Deliberativo:</strong> &nbsp;<a href="http://www.ime.usp.br/acarlos">Antonio Carlos Pedroso de Lima</a></p>
+<p><strong>Diretora Científica: </strong> &nbsp; <a href="https://www.ime.usp.br/tunes/">Gisela Tunes da Silva</a></p>
+<p><strong>Vice-Diretora Científica: </strong> &nbsp;<a href="https://www.ime.usp.br/acarlos/">Antonio Carlos Pedroso de Lima</a></p>
+<p><strong>Conselho Deliberativo:</strong> &nbsp;<a href="https://www.ime.usp.br/lbarroso/">Lucia Pereira Barroso</a> e <a href="https://www.ime.usp.br/vivig/">Viviana Giampaoli</a></p>
 
 
 <p><strong>Secretária:</strong> Alessandra Monteiro de Arcanjo Guerrero </p>
