@@ -4,9 +4,6 @@
   <div class="container">
 
   <h3>Projetos</h3>
-
-
-
   <br>
 <p>Os <strong>projetos</strong> desenvolvidos pelo CEA envolvem um completo planejamento e/ou análise estatística de dados. Em geral, o prazo para a realização de um projeto é de 4 meses (março a junho ou agosto a novembro). O produto desse tipo de projeto é um relatório contendo uma descrição detalhada das análises e suas conclusões.</p>
   <p style="text-align: justify;">Para que um projeto seja desenvolvido pelo CEA é necessário que ele seja submetido em janeiro/fevereiro (para trabalhos a serem analisados no 1º semestre) ou em
@@ -18,11 +15,9 @@ cotejado com outros projetos inscritos. Nessa triagem selecionam-se os projetos 
 
 <div class="alert alert-info" style="background-color: #c7f4ff; color: black; border: 1px solid #bbdefb; border-radius: 8px;">
     <p class="mb-2">
-        <strong>Projetos - 1º Semestre de 2026:</strong><br>
-        As inscrições para projetos <b>estão encerradas</b> (período: 08/12/2025 a 09/02/2026).
-    </p>
-    <p class="mb-2">
-        🔍 <b>Triagem:</b> A triagem dos projetos inscritos ocorre de <b>02/02/2026 a 19/02/2026</b>.
+        <strong>Projetos - 2º Semestre de 2026:</strong><br>
+        As inscrições estarão abertas de <b>15/05/2026 a 19/06/2026</b>.<br>
+        🔍 Triagem: <em>datas a serem divulgadas</em>.
     </p>
     <hr style="border-top: 1px solid #bbdefb;">
     <p class="mb-0 small">
@@ -40,7 +35,7 @@ link das inscrições: https://inscricao.cea.ime.usp.br/
   <h3>Procedimento para projetos</h3>
   <br>
   <ol style="text-align: justify;">
-  <li>Preencher a ficha de inscrição por meio do formulário <!-- <a href="https://inscricao.cea.ime.usp.br/" target="_blank" rel="noopener noreferrer">--> on-line</a>.</li>
+  <li>Preencher a ficha de inscrição por meio do formulário <a href="https://inscricao.cea.ime.usp.br/" target="_blank" rel="noopener noreferrer"> on-line</a>.</li>
   <li>Ao finalizar a inscrição é enviado por e-mail ao inscrito um boleto no
       valor de <b>R$ 80,00</b> referente à <i>taxa de inscrição</i>. Aguardar o contato da
       secretária do CEA para escolha da data da triagem (fevereiro/março ou

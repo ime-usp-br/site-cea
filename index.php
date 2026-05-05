@@ -42,8 +42,9 @@ include ("cabecalho.html");
 
 <div class="alert alert-info" style="background-color: #e7f1ff; color: black; border: 1px solid #e7f1ff; border-radius: 8px;">
     <p class="mb-2">
-        <strong>Projetos - 1º Semestre de 2026:</strong><br>
-        As inscrições para projetos <b>estão encerradas</b> (período: 08/12/2025 a 09/02/2026).
+        <strong>Projetos - 2º Semestre de 2026:</strong><br>
+        As inscrições estarão abertas de <b>15/05/2026 a 19/06/2026</b>.<br>
+        Triagem: <em>datas a serem divulgadas</em>.
     </p>
     <hr style="border-top: 1px solid #bbdefb;">
     <p class="mb-0 small">
@@ -61,12 +62,13 @@ include ("cabecalho.html");
 
 <br>
 <h3>Palestras:</h3>
-<br>
-
   <p style="text-align: justify;">O Centro de Estatística Aplicada realiza periodicamente palestras abertas ao público. Veja a programação logo abaixo:</p>
 
-   PROGRAMAÇÃO DAS PALESTRAS
-
+  <p><strong>Programação:</strong></p>
+  <p style="color: #555;">
+  No momento, <em>não há palestras agendadas</em>.
+  </p>
+<!--
 <style>
 .tabela-palestras th { background:#6495ed; }
 .tabela-palestras, .tabela-palestras th, .tabela-palestras td { border:1px solid #b8b8b8; border-collapse:collapse; padding:6px; }
@@ -109,7 +111,7 @@ include ("cabecalho.html");
     <td>Auditório Jacy Monteiro</td>
   </tr>
 </table>
-
+-->
 <br>
 <br>
 </div>
