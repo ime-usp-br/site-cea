@@ -103,8 +103,9 @@
     let itensExibidos = 0;
     const ITENS_POR_PAGINA = 30; 
 
-    const ARQUIVO_PROJETOS = 'acervo/banco_projetos.json';
-    const ARQUIVO_CONSULTAS = 'acervo/banco_consultas.json';
+    const BASE_PATH = window.location.pathname.endsWith('/') ? window.location.pathname : window.location.pathname + '/';
+    const ARQUIVO_PROJETOS = BASE_PATH + 'banco_projetos.json';
+    const ARQUIVO_CONSULTAS = BASE_PATH + 'banco_consultas.json';
 
     // carregamento
     async function carregarDados() {
