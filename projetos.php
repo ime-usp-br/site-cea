@@ -15,8 +15,8 @@ cotejado com outros projetos inscritos. Nessa triagem selecionam-se os projetos 
 
 <div class="alert alert-info" style="background-color: #c7f4ff; color: black; border: 1px solid #bbdefb; border-radius: 8px;">
     <p class="mb-2">
-        <strong>Projetos - 2º Semestre de 2026:</strong><br>
-        As inscrições estarão abertas de <b>15/05/2026 a 19/06/2026</b>.<br>
+        <strong>Projetos - 2º Semestre de 2026: INSCRIÇÕES ABERTAS</strong><br>
+        Período de inscrição: <b>15/05/2026 a 19/06/2026</b>.<br>
         🔍 Triagem: <em>datas a serem divulgadas</em>.
     </p>
     <hr style="border-top: 1px solid #bbdefb;">
