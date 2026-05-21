@@ -17,7 +17,6 @@
         "metodos_estatisticos": [
             "Análise Descritiva Unidimensional",
             "Análise de variância univariada",
-            "Análise de Variância com Efeitos Fixos",
             "Análise de Variância Multivariada"
         ],
         "codigos_metodos": [
@@ -43,7 +42,6 @@
         ],
         "metodos_estatisticos": [
             "Análise de variância univariada",
-            "Análise de Variância com Efeitos Fixos",
             "Análise de Dados Categorizados",
             "Análise descritiva",
             "Análise de agrupamentos",
@@ -94,7 +92,7 @@
             "Eliane Monteiro"
         ],
         "orientadores": [],
-        "instituicao": "",
+        "instituicao": "Empresa Brasileira de Pesquisa Agropecuária (EMBRAPA)-RS",
         "responsaveis_analise": [
             "Dalton F. de Andrade",
             "Neide de Araújo",
@@ -237,7 +235,6 @@
         "metodos_estatisticos": [
             "Análise Descritiva Unidimensional",
             "Análise de Dados Categorizados",
-            "Testes não paramétricos",
             "Testes de Hipóteses Não Paramétricas"
         ],
         "codigos_metodos": [
@@ -370,7 +367,6 @@
         ],
         "metodos_estatisticos": [
             "Análise Descritiva Unidimensional",
-            "Análise de Componentes Principais",
             "Análise descritiva de dados circulares",
             "Análise de Sobrevivência",
             "Componentes principais",
@@ -543,8 +539,7 @@
         ],
         "metodos_estatisticos": [
             "Análise de regressão",
-            "Análise de",
-            "Séries Temporais"
+            "Análise de Séries Temporais"
         ],
         "codigos_metodos": [
             "11:010"
@@ -589,7 +584,6 @@
         ],
         "metodos_estatisticos": [
             "Análise Descritiva Unidimensional",
-            "Análise de Variância com Efeitos Fixos",
             "Análise de Variância com Modelos Mistos",
             "Teste binomial modificado",
             "Planejamento de Experimentos"
@@ -618,12 +612,10 @@
         ],
         "metodos_estatisticos": [
             "Análise Descritiva Unidimensional",
-            "Análise de Variância com Efeitos Fixos",
             "Análise de Variância com Modelos Mistos"
         ],
         "codigos_metodos": [
             "08:030",
-            "08:010",
             "03:010"
         ],
         "link_pdf": "https://repositorio.usp.br/directbitstream/63b37dbd-30a8-4890-bb60-242e8b16b1df/3087050%20-%20Relat%C3%B3rio%20de%20an%C3%A1lise%20estat%C3%ADstica%20sobre%20o%20projeto%20%E2%80%9CTransfer%C3%AAncia%20entre%20tarefas%20sincronizat%C3%B3rias%20com%20diferentes%20n%C3%ADveis%20de%20complexidade%E2%80%9D.pdf"
@@ -702,15 +694,11 @@
             "Análise Descritiva Unidimensional",
             "Comparações Múltiplas",
             "Análise de Variância com Efeitos Fixos",
-            "Multivariada)",
             "Análise de Variância Multivariada",
-            "(univariada",
-            "Planejamento de Experimentos com Medidas Repetidas",
-            "(medidas repetidas)",
             "Testes de hipóteses não paramétricos"
         ],
         "codigos_metodos": [
-            "10:050",
+            "05:070",
             "08:010",
             "08:090",
             "08:110",
@@ -761,7 +749,6 @@
         "metodos_estatisticos": [
             "Análise Descritiva Unidimensional",
             "D de somers - medida de associação",
-            "Regressão \"robusta\"",
             "Associação e Dependência de Dados Qualitativos",
             "Análise de Regressão Clássica"
         ],
@@ -861,10 +848,8 @@
         ],
         "metodos_estatisticos": [
             "Análise Descritiva Unidimensional",
-            "Análise de Variância com Efeitos Fixos",
-            "Séries Temporais",
             "Análise espectral",
-            "Análise de variância em"
+            "Análise de variância em Séries Temporais"
         ],
         "codigos_metodos": [
             "08:010",
@@ -978,17 +963,13 @@
         "metodos_estatisticos": [
             "Análise Descritiva Unidimensional",
             "Comparações Múltiplas",
-            "Análise de Variância com Efeitos Fixos",
-            "Planejamento de Experimentos com Medidas Repetidas",
             "Análise descritiva bidimensional",
             "Análise de variância com medidas repetidas",
             "Análise Descritiva Multidimensional"
         ],
         "codigos_metodos": [
             "10:050",
-            "08:010",
             "08:090",
-            "03:020",
             "03:010"
         ],
         "link_pdf": "https://repositorio.usp.br/directbitstream/bb0bceb5-ccd2-43a4-acf3-36dcf62fbfe9/963596.pdf"
@@ -1096,8 +1077,6 @@
             "Comparações Múltiplas",
             "Análise de Conglomerados",
             "Análise de Variância com Efeitos Fixos",
-            "Planejamento de Experimentos com Medidas Repetidas",
-            "(medidas repetidas)",
             "Análise de Regressão Clássica"
         ],
         "codigos_metodos": [
